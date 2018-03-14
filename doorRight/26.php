@@ -23,12 +23,12 @@
   	
   	<div class="container">
   	<div class="list-group">
-  <a href="#" class="list-group-item list-group-item-action" id="first">測試</a>
-  <a href="#" class="list-group-item list-group-item-action" id="second">更多測試</a>
-  <a href="#" class="list-group-item list-group-item-action" id="third">滿滿的測試</a>
+  <a class="list-group-item list-group-item-action" id="first">測試</a>
+  <a class="list-group-item list-group-item-action" id="second">更多測試</a>
+  <a class="list-group-item list-group-item-action" id="third">滿滿的測試</a>
 </div>
 		
-  	<div id="show"></div>
+  	<div id="showC"></div>
   	
   	</div>
 
@@ -115,17 +115,30 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-     <script>
-      	$("#first").on("click", function(){
-			$("#show").unload();
-        	$("#show").load("../index.php");
-			
+	<script>
+     $(document).ready(function() {
+
+   $("#content-loaded").load("index.php");
+
+   $('.about').click(function(evt) {
+       $("#content-loaded").empty();
+       $("#content-loaded").load("about.php");
+       evt.preventDefault();
+   });
+
+   //....
+});
+     	</script>
+     	<script>
+      	$("#first").click(function(){
+			$("#showC").remove();
+			$("#showC").load("../index.php");
       });
-		$("#second").on("click", function(){
-        	$("#show").load("../log.php");
+		$("#second").click(function(){
+        	$("#showC").load("../log.php");
       });
 		$("#third").on("click", function(){
-        	$("#show").load("../aboutUs.php");
+        	$("#showC").load("../aboutUs.php");
       });
     </script>
     
