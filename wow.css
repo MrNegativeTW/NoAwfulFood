@@ -1,0 +1,205 @@
+/* CSS Document */
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+.wowTitleText{
+	font-family: 'Noto Sans TC', sans-serif;
+}
+.wowDetailText{
+	font-family: 'Noto Sans TC', sans-serif;	
+}
+.wowTop{
+	padding-top: 15px;			
+}
+.wowBottom{
+	padding-bottom: 20px;
+}
+.wowIndexFontAwesomeColor{
+	color:#D33336
+}
+
+/*footer with social icon*/
+#myFooter {
+	background-color: #373a48;
+	color:white;
+}
+#myFooter .footer-copyright{
+	background-color: #383737;
+	padding-top:3px;
+	padding-bottom:3px;
+	text-align: center;
+}
+#myFooter .footer-copyright p{
+	margin:3px;
+	color: #ccc;
+}
+#myFooter ul{
+	list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+#myFooter h5{
+	font-size: 16px;
+    color: white;
+    font-weight: bold;
+    margin-top: 15px;
+	margin-bottom: 15px;
+}
+#myFooter a{
+	color:white;
+	text-decoration: none;
+}
+#myFooter a:hover, #myFooter a:focus{
+	text-decoration: none;
+	color:white;
+}
+#myFooter .myCols{
+	text-align: center;
+}
+#myFooter .social-networks{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 38px;
+}
+#myFooter .social-networks a{
+    font-size: 32px;
+    margin-right: 5px;
+    margin-left: 5px;
+    color: #f9f9f9;
+    padding: 10px;
+    transition: 0.2s;
+}
+#myFooter .social-networks a:hover{
+	text-decoration: none;
+}
+#myFooter .facebook:hover{
+	color:#0077e2;
+}
+#myFooter .google:hover{
+	color:#ef1a1a;
+}
+#myFooter .twitter:hover{
+	color: #00aced;
+}
+@media screen and (max-width: 767px){
+	#myFooter {
+		text-align: center;
+	}
+}
+/* CSS used for positioning the footers at the bottom of the page. */
+/* You can remove this. */
+html{
+	height: 100% !important;
+}
+
+body{
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    height: 100%;
+}
+.content{
+	flex: 1 0 auto;
+	-webkit-flex: 1 0 auto;
+	min-height: 200px;
+}
+#myFooter{
+	flex: 0 0 auto;
+    -webkit-flex: 0 0 auto;
+}
+
+/*Header-Nightsky*/
+.header-nightsky {
+    color: white;
+    background: url("http://no-awful-food.byethost7.com/img/header.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+	padding-top: 75px;
+    padding-bottom: 100px;
+}
+.header-nightsky .hero {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.header-nightsky .hero h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 36px;
+}
+.header-nightsky .hero p {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 20px;
+    max-width: 660px;
+    margin: 0 auto 20px;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+/*RGB*/
+.colorLoop {
+	animation: bg-animation 7s infinite;
+}
+
+@-webkit-keyframes bg-animation {
+  0% {
+    background-color: #FF4136;
+  }
+  15% {
+    background-color: #FFDC00;
+  }
+  30% {
+    background-color: #2ECC40;
+  }
+  45% {
+    background-color: #0074D9;
+  }
+  60% {
+    background-color: #B10DC9;
+  }
+  75% {
+    background-color: #F012BE;
+  }
+  90% {
+    background-color: #001f3f;
+  }
+  100% {
+    background-color: #FF4136;
+  }
+}
+@keyframes bg-animation {
+	0% {
+    background-color: #001f3f;
+  }
+	10% {
+    background-color: #0074D9;
+  }
+	20% {
+    background-color: #7FDBFF;
+  }
+	30% {
+    background-color: #39CCCC;
+  }
+	40% {
+    background-color: #3D9970;
+  }
+	50% {
+    background-color: #2ECC40;
+  }
+	60% {
+    background-color: #01FF70;
+  }
+	70% {
+    background-color: #FFDC00;
+  }
+	80% {
+    background-color: #FF851B;
+  }
+	90% {
+    background-color: #FF4136;
+  }
+	100% {
+    background-color: #001f3f;
+  }
+}
+

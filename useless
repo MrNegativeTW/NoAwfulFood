@@ -1,0 +1,123 @@
+php database login information
+    <?php
+	mysql_connect("sql107.byethost7.com","b7_20870352","qnhttdga0707");
+	mysql_select_db("7_20870352_food");
+	?>
+-------------------------------------------------------------------------------------------
+index useless bg src
+<style>
+background-image: url("https://i.imgur.com/83b7bzM.jpg");
+</style>
+
+<Original navBar>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  		<a class="navbar-brand" href="http://no-awful-food.byethost7.com/">No Awful Food</a>
+  		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+    		<span class="navbar-toggler-icon"></span>
+		</button>
+
+ 		<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+
+			<ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+	
+				<!--下拉選單-->
+				<!--doorRight-->
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">背對後門右手邊</a>
+						<div class="dropdown-menu">
+							<h6 class="dropdown-header">早餐類</h6>
+							<a class="dropdown-item" href="#">打拋豬飯糰</a><!--kraPow-->
+							<a class="dropdown-item" href="#">早餐店</a><!--breakFast-->
+							<h6 class="dropdown-header">速食類</h6>
+							<a class="dropdown-item" href="/doorRight/momTouch.php">MoM's Touch</a><!--momTouch-->
+							<h6 class="dropdown-header">便當類</h6>
+							<a class="dropdown-item" href="#">小台南便當</a>
+							<h6 class="dropdown-header">麵食類</h6>
+							<a class="dropdown-item" href="#">有志麵食館</a>
+						</div>
+				</li>
+				<!--doorLeft-->
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">背對後面左手邊</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="#">飲料店</a>
+							<a class="dropdown-item" href="#">阿水伯炒飯</a>
+							<a class="dropdown-item" href="#">妙廚老爹</a>
+							<a class="dropdown-item" href="#">店家2</a>
+							<a class="dropdown-item" href="#">店家2</a>
+						</div>
+				</li>
+				<!--stRight-->
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">背對南台街右手邊</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="#">店家1</a>
+							<a class="dropdown-item" href="#">店家2</a>
+							<a class="dropdown-item" href="#">店家2</a>
+							<a class="dropdown-item" href="#">店家2</a>
+							<a class="dropdown-item" href="#">店家2</a>
+						</div>
+				</li>
+				<!--stLeft-->
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">背對南台街左手邊</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="#">店家1</a>
+							<a class="dropdown-item" href="#">店家2</a>
+							<a class="dropdown-item" href="#">店家2</a>
+							<a class="dropdown-item" href="#">店家2</a>
+							<a class="dropdown-item" href="#">店家2</a>
+						</div>
+				</li>
+				<!--other-->
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">其他</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="#">櫻花廚房</a>
+						</div>
+				</li>
+			
+				<!--Active 啟用項目
+				<li class="nav-item active">
+					<a class="nav-link" href="#">南台街<span class="sr-only">(current)</span></a>
+				</li>
+				-->
+			
+				<!--item 單項目
+				<li class="nav-item">
+					<a class="nav-link" href="#">大武街</a>
+				</li>
+				-->
+
+				<!--Disable 未啟用
+				<li class="nav-item">
+						<a class="nav-link disabled" href="#">Disabled</a>
+				</li>
+				-->
+			</ul>
+
+			<!--導航欄搜尋
+			<form class="form-inline my-2 my-lg-0">
+				<input class="form-control mr-sm-2" type="text" placeholder="Search">
+				<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+			</form>
+			-->
+			
+			
+			<a href="http://facebook.com" class="btn btn-outline-info">Facebook</a>
+			
+			
+		</div>
+	</nav>
+</Original navBar>
+
+
+
+<navBarItem> 原本的下拉導航寫法
+<!--other-->
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="shop/other.php
+					">其他</a>
+				</li>
+</navBarItem>
