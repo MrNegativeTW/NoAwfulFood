@@ -24,13 +24,9 @@
   	
   	<div class="container">
   	<div class="list-group">
-  <a href="#" class="list-group-item list-group-item-action active">
-    Cras justo odio
-  </a>
-  <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
-  <a href="#" class="list-group-item list-group-item-action">Morbi leo risus</a>
-  <a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
-  <a class="list-group-item list-group-item-action" id="first">Vestibulum at eros</a>
+  <a href="#" class="list-group-item list-group-item-action" id="first">測試</a>
+  <a href="#" class="list-group-item list-group-item-action" id="second">更多測試</a>
+  <a href="#" class="list-group-item list-group-item-action" id="third">滿滿的測試</a>
 </div>
 		
   	<div id="show"></div>
@@ -222,14 +218,16 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
      <script>
-      	$("#first").click(function(){
-        $("#show").load("../index.php");
+      	$("#first").on("click", function(){
+			$("#show").unload();
+        	$("#show").load("../index.php");
+			
       });
 		$("#second").on("click", function(){
-        $("#show").load("22test.php");
+        	$("#show").load("../log.php");
       });
 		$("#third").on("click", function(){
-        $("#show").load("22test.php");
+        	$("#show").load("../aboutUs.php");
       });
     </script>
     

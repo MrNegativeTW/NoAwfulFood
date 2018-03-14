@@ -385,12 +385,12 @@
   		</div>
  		
   		<div class="card border-secondary mt-3">
-    		<a href="#" onClick="return false;"><img class="card-img-top" src="https://3.bp.blogspot.com/-MpqykQo-qTY/WpY30-A3gTI/AAAAAAAAeXU/F87OKpBQ7TcghdM2p9Qv5uQJqhCAz-HPQCK4BGAYYCw/s1600/%25E7%25BA%258C%25E6%259D%25AF%25E9%25BB%2591%25E7%25B3%2596%25E5%25A5%25B6%25E8%2588%2596.png" alt="圖片失效，請聯絡我們處理。"></a>
+    		<a href="../doorRight/26"><img class="card-img-top" src="https://3.bp.blogspot.com/-MpqykQo-qTY/WpY30-A3gTI/AAAAAAAAeXU/F87OKpBQ7TcghdM2p9Qv5uQJqhCAz-HPQCK4BGAYYCw/s1600/%25E7%25BA%258C%25E6%259D%25AF%25E9%25BB%2591%25E7%25B3%2596%25E5%25A5%25B6%25E8%2588%2596.png" alt="圖片失效，請聯絡我們處理。"></a>
     	<div class="card-body">
 			<h4 class="card-title">續杯黑糖乃舖</h4>
       		<p class="card-text">黑糖飲品 廣東粥品 鍋燒系列</p>
-      		<a target="_blank" href="#" class="btn btn-info disabled"><?php echo $button[0]; ?></a>
-      		<a href="#" class="btn btn-info disabled"><?php echo $button[1]; ?></a>
+      		<a target="_blank" href="<?php echo $twentySixMenu[0]; ?>" class="btn btn-info"><?php echo $button[0]; ?></a>
+      		<a href="../doorRight/26" class="btn btn-info"><?php echo $button[1]; ?></a>
    		</div>
    			<ul class="list-group list-group-flush">
     			<li class="list-group-item">電話：0933-397-470</li>
