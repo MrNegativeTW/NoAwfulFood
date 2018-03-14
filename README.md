@@ -11,5 +11,5 @@ No Awful Food，由南臺某位大一新生獨立開發，盡個人之力搜集�
 我的科系裡有資訊兩字，但沒有工程兩字。
 ## 為什麼網站到處不能按，有些還會亂跳，Bug一堆?
 因為我只有一個人/因為還在開發階段/因為我是新手/因為這是一個有點麻煩的專案
-## <br><a href="https://docs.google.com/spreadsheets/d/10KYn5ozhnZ8akLi_1zr9RKeymGKSBS7Bpkj9w9mzn6U/edit?usp=sharing">店家資訊表</a>
+## <a href="https://docs.google.com/spreadsheets/d/10KYn5ozhnZ8akLi_1zr9RKeymGKSBS7Bpkj9w9mzn6U/edit?usp=sharing">店家資訊表</a>
 所有資料皆由一人獨力搜集，這邊就 共享吧
