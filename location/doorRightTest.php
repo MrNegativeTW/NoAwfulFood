@@ -2,48 +2,65 @@
 <html lang="zh-Hant-TW">
 <head>
 	<?php include '../head.php'?>
-	<?php include '../arrays/doorRightShop.php'?>
 </head>
 <body class="wowTitleText">
 	<?php include '../navBarIndex.php'?>
 <div class="container wowTop text-center animated flash">
 	<div class="alert alert-info" role="alert">目前顯示的是：南台街右邊</div>
 </div>
-<div class="container">
 
 <?php
-	echo ()
-
+	
+$doorRightShopJson = ' [
+{
+	"name":"MoM\'s Touch",
+	"class":"速食",
+	"phone":"未提供/待搜集",
+	"times":"午餐/晚餐",
+	"drink":"另購",
+	"soup":"無",
+	"selfClean":"是",
+	"delivery":"不提供",
+	"image":"無",
+	"menu":"無"
+},{
+	"name":"馬來小館",
+	"class":"鍋燒、飯食",
+	"phone":"未提供/待搜集",
+	"times":"午餐/晚餐",
+	"drink":"另購",
+	"soup":"無",
+	"selfClean":"是",
+	"delivery":"不提供",
+	"image":"無",
+	"menu":"無"
+} ]';
 	
 	
 	
 	
-	
-	
-	
-	
-	?>
+/**$str = file_get_contents('../arrays/doorRightShop.json');**/
+$doorRightShopData = json_decode($doorRightShopJson);
+/**echo print_r ($doorRightShopData);**/
+
+foreach($doorRightShopData as $data){
+	echo "店名:" . $data->name . "<br>";
+	echo "飲食類型:" . $data->class . "<br>";
+	echo "電話:" . $data->phone . "<br>";
+	echo "營業時段:" . $data->times . "<br>";
+	echo "飲料:" . $data->drink . "<br/>";
+	echo "湯品:" . $data->soup . "<br/>";
+	echo "自行收拾:" . $data->selfClean . "<br/>";
+	echo "提供外送:" . $data->delivery . "<br/>";
+	echo "圖片:" . $data->image . "<br/>";
+	echo "菜單:" . $data->menu . "<br/>";
+	echo "<br/>";
+}
+?>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<div class="card-deck text-center">
+<div class="container">
+ 	<div class="card-deck text-center">
   		<div class="card border-secondary mt-3">
     		<a target="_blank" href="../doorRight/1.php"><img class="card-img-top" src="http://2.bp.blogspot.com/-F69XbDIsjWQ/WgZW0LBJ7jI/AAAAAAAAXWI/d7aSpSu2UrYGqg_sviu9UM8HxBC93hGmQCK4BGAYYCw/s1600/MoM%2527s%2BTouch.png" alt="圖片失效，請聯絡我們處理。"></a>
     	<div class="card-body">

@@ -1,0 +1,25 @@
+$doorRightShopJson = ' 
+ {
+	"name":"MoM\'s Touch",
+	"class":"速食",
+	"phone":"未提供/待搜集",
+	"times":"午餐/晚餐",
+	"drink":"另購",
+	"soup":"無",
+	"selfClean":"是",
+	"delivery":"不提供",
+	"image":"無",
+	"menu":"無"
+},{
+	"name":"馬來小館",
+	"class":"鍋燒、飯食",
+	"phone":"未提供/待搜集",
+	"times":"午餐/晚餐",
+	"drink":"另購",
+	"soup":"無",
+	"selfClean":"是",
+	"delivery":"不提供",
+	"minCharge":"無",
+	"image":"無",
+	"menu":"無"
+}';

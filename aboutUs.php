@@ -96,6 +96,7 @@
 			<a class="btn btn-info" href="http://no-awful-food.byethost7.com" role="button">返回 No Awful Food ›</a>
 			<hr>
 			<P style="color:white">99％圖片都由本人親手拍攝<br>並經過Photoshop處理和壓縮大小</P>
+			<a class="btn btn-secondary" href="https://github.com/MrNegativeTW/NoAwfulFood" role="button">GitHub</a>
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-outline-light" data-toggle="modal" data-target="#exampleModal">查看本站技術資訊 ›</button>
 
@@ -117,12 +118,13 @@
 		</div>
 	</div>
 </div>
+		
 			<P class="wowTop" style="color:white">開發工具：<br>Dreamweaver / Sublime Text</P>
 			<P style="color:white">測試裝置：<br>Chrome (Win/Mac/Android)<br>Safari (Mac/iPad)<br></P>
 			<br>
 		</div>
 </div>
-	<!--既然你都到這邊來了，我就跟你說，這一頁有小彩蛋喔-->
+	<!--既然你都到這邊來了，我就跟你說，這一頁有彩色的小彩蛋喔-->
 	<!--然後我很懶得整理程式碼，不要罵我QQ-->
 	<!-- Bootstrap core JavaScript-->
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
