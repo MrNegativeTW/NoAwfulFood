@@ -1,4 +1,4 @@
-$doorRightShopJson = ' [
+[
 {
 	"name":"MoM\'s Touch",
 	"class":"速食",
@@ -21,4 +21,4 @@ $doorRightShopJson = ' [
 	"delivery":"不提供",
 	"image":"無",
 	"menu":"無"
-} ]';
+} ]
