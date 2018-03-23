@@ -163,8 +163,7 @@ $doorRightShopJson = ' [
 	"soup":"null",
 	"selfClean":"否",
 	"delivery":"null",
-	"image":"http://3.bp.blogspot.com/-nSZaIzkDT1o/WgZXWTZZsAI/AAAAAAAAXXk/WdQ1AvplRmMgZxPFwu5-YpDDSCz7xdQpACK4BGAYYCw/s1600/%25E6%259C%2589%25E5%25BF%2597%25E9%25BA%25B5%25E9%25A3%259F%25E9%25A4%25A8.png",
-	"menu":"0",
+	"image":"http://3.bp.blogspot.com/-nSZaIzkDT1o/WgZXWTZZsAI/AAAAAAAAXXk/WdQ1AvplRmMgZxPFwu5-YpDDSCz7xdQpACK4BGAYYCw/s1600/%25E6%259C%2589%25E5%25BF%2597%25E9%25BA%25B5%25E9%25A3%259F%25E9%25A4%25A8.png",	"menu":"http://2.bp.blogspot.com/-6__E8Gxky9s/WrRyrpWdqeI/AAAAAAAAfrE/uSWbH4gHyZ4e6vqX48iH5DN3VXu0T_XEgCK4BGAYYCw/s1600/%25E6%259C%2589%25E5%25BF%2597%25E9%25BA%25B5%25E9%25A3%259F%25E9%25A4%25A8%2B%2528%25E5%25A4%2596%25E5%25B8%25B6%25E5%25B0%2588%25E7%2594%25A8%2529.png",
 	"href":"0"
 },{
 	"name":"鮮果補給站",
@@ -188,7 +187,7 @@ $doorRightShopJson = ' [
 	"selfClean":"不適用",
 	"delivery":"有",
 	"image":"http://4.bp.blogspot.com/-hvoe0-tWS70/WgZXZEwXHbI/AAAAAAAAXXs/xx3jUkXvtjEx2EHItCKBBPGBSTDX3GctQCK4BGAYYCw/s1600/%25E4%25BB%259B%25E8%258C%25B6.png",
-	"menu":"0",
+	"menu":"http://1.bp.blogspot.com/-wI0R2BsPJ8w/WrRyxbJFBTI/AAAAAAAAfrM/wSQ_E9sWTCwPX-fSEY28nogIu9ULh01nQCK4BGAYYCw/s1600/%25E4%25BE%2598%25E8%258C%25B6.jpg",
 	"href":"0"
 },{
 	"name":"小台南便當",
@@ -211,7 +210,7 @@ $doorRightShopJson = ' [
 	"selfClean":"不適用",
 	"delivery":"null",
 	"image":"http://1.bp.blogspot.com/-KjOMLXYNY0Q/WgZXhOt85SI/AAAAAAAAXYE/6TvoFLPjkns-CTOTtygstJry4ErXaWN7wCK4BGAYYCw/s1600/%25E4%25B8%2580%25E4%25BB%25A3%25E7%259B%25AE.png",
-	"menu":"0",
+	"menu":"http://3.bp.blogspot.com/-KoLTa_bh9xQ/WrRyKIrA6SI/AAAAAAAAfq4/roMXdjK6h9kLmi1YdSAc9EIQd-0o3sysQCK4BGAYYCw/s1600/%25E4%25B8%2580%25E4%25BB%25A3%25E7%259B%25AE.jpg",
 	"href":"0"
 },{
 	"name":"淳莊燒烤",
@@ -262,12 +261,12 @@ $doorRightShopJson = ' [
 	"href":"../doorRight/22"
 },{
 	"name":"吃貨販賣所",
-	"class":"null",
+	"class":"速食",
 	"phone":"0965-307676",
 	"times":"午餐、晚餐",
-	"drink":"null",
-	"soup":"null",
-	"selfClean":"null",
+	"drink":"另購",
+	"soup":"另購",
+	"selfClean":"是",
 	"delivery":"null",
 	"image":"http://2.bp.blogspot.com/-ANpjYYNgyk4/WgZXzj070wI/AAAAAAAAXY0/S04OO8KXx8INEyDLtJi0Px8SnOcmtOyVwCK4BGAYYCw/s1600/%25E5%2590%2583%25E8%25B2%25A8%25E8%25B2%25A9%25E8%25B3%25A3%25E6%2589%2580.png",
 	"menu":"0",
@@ -294,7 +293,7 @@ $doorRightShopJson = ' [
 	"selfClean":"null",
 	"delivery":"null",
 	"image":"http://1.bp.blogspot.com/-tv7n-rfQoig/WgZX3C2MIyI/AAAAAAAAXZE/6_N9AGvcI1MvLlrvHvaGEtJn3EZUVl1GACK4BGAYYCw/s1600/%25E5%2590%2589%25E5%2593%2581%25E7%2589%259B%25E8%2582%2589%25E9%25BA%25B5.png",
-	"menu":"0",
+	"menu":"http://4.bp.blogspot.com/-k2RYsR_h_RE/WrRxO4AuEOI/AAAAAAAAfqs/O9s98inM-YEUs5OJ6ksNQSWAq66RGeTDQCK4BGAYYCw/s1600/25.png",
 	"href":"0"
 },{
 	"name":"續杯黑糖乃舖",
@@ -306,7 +305,7 @@ $doorRightShopJson = ' [
 	"selfClean":"否",
 	"delivery":"有",
 	"image":"https://3.bp.blogspot.com/-MpqykQo-qTY/WpY30-A3gTI/AAAAAAAAeXU/F87OKpBQ7TcghdM2p9Qv5uQJqhCAz-HPQCK4BGAYYCw/s1600/%25E7%25BA%258C%25E6%259D%25AF%25E9%25BB%2591%25E7%25B3%2596%25E5%25A5%25B6%25E8%2588%2596.png",
-	"menu":"0",
+	"menu":"http://2.bp.blogspot.com/-f540N2XnBC0/WqjPDSda7iI/AAAAAAAAfD4/tG-MtML9xukeoRvqQ49wB4JKrLjwACo2ACK4BGAYYCw/s1600/26.jpg",
 	"href":"0"
 },{
 	"name":"藤手做壽司",
@@ -330,7 +329,7 @@ $doorRightShopJson = ' [
 	"selfClean":"否",
 	"delivery":"null",
 	"image":"http://4.bp.blogspot.com/-mC86OB53BuU/WgZX9HZzp9I/AAAAAAAAXZc/qZP6IC3x1j8FlondrdBfSBJvSxJTyxmswCK4BGAYYCw/s1600/%25E9%2598%25BF%25E7%2594%2598%25E6%25B7%25B3%25E7%2589%259B%25E8%2582%2589%25E9%25BA%25B5.png",
-	"menu":"0",
+	"menu":"http://3.bp.blogspot.com/-MWZOhkzgFrI/WrRwmokurCI/AAAAAAAAfqg/P55GIOewr90RlNZB227GFEb_ulkmnCTugCK4BGAYYCw/s1600/%25E9%2598%25BF%25E7%2594%2598%25E6%25B7%25B3%25E7%2589%259B%25E8%2582%2589%25E9%25BA%25B5.png",
 	"href":"0",
 	"final":"1"
 } ]';
@@ -375,9 +374,9 @@ foreach($doorRightShopData as $data){
 	}
 		/*了解更多按鈕.disabled button if href's value='0' */
 	if ($hrefdis == "0"){
-		echo "<a href='" . $data->href . "' class='btn btn-info disabled'>" . " 了解更多" . "</a>";
+		echo "<a target='_blank' href='" . $data->href . "' class='btn btn-info disabled'> 了解更多</a>";
 	} else {
-		echo "<a href='" . $data->href . "' class='btn btn-info'>" . "了解更多" . "</a>";
+		echo "<a target='_blank' href='" . $data->href . "' class='btn btn-info'> 了解更多</a>";
 	}
 	/*Card Body結束*/
 	echo "</div>" ;
@@ -413,9 +412,6 @@ foreach($doorRightShopData as $data){
 	echo "</div>";
 ?>
 </div>  
-    <?php include('../footer.php') ?>
-	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+<?php include('../footer.php') ?>
 </body>
 </html>

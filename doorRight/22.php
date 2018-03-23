@@ -191,7 +191,7 @@
 	<div class="row text-center">
  		<div class="col-sm">
   			<div class="card border-secondary mt-3">
-   				<a href="#" onclick="return false;"><img class="card-img-top" src="http://3.bp.blogspot.com/-DBKey_PTWCw/WgviY83OERI/AAAAAAAAXo4/VRW_U9JObLIq7I-X4aFMDFLwvbaaTadkQCK4BGAYYCw/s1600/coming%2Bsoon.png" alt="圖片失效，請聯絡我們處理。"></a>
+   				<a href="#" onclick="return false;"><img class="card-img-top" src="http://4.bp.blogspot.com/-5Ba__Rgpz3s/WrJXrVJWSbI/AAAAAAAAfmg/gSpxhS1nApgZa81FjFCjownamg7rc9hXACK4BGAYYCw/s1600/%25E9%25AE%25AD%25E9%25AD%259A%25E8%259B%258B%25E7%2582%2592%25E9%25A3%25AF%2B60.jpg" alt="圖片失效，請聯絡我們處理。"></a>
     			<div class="card-footer bg-transparent border-secondary">鮭魚蛋炒飯 $60</div>
 			</div>
  		</div>
@@ -200,10 +200,6 @@
 	</div>
 <div class="wowBottom"></div>
 	
-	<?php include('../footer.php') ?>
-	<!-- Bootstrap core JavaScript-->
-	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+<?php include('../footer.php') ?>
 </body>
 </html>
