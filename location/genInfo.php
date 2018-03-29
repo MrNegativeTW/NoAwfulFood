@@ -1,13 +1,11 @@
 <?php
-/*get shop list*/
 $json = file_get_contents("shopList.json");
-/**/
 $ShopData = json_decode($json);
 /*auto turn list to card view*/
 /*add container*/
 echo "<div class='container'>";
 /*
-宣告row次數
+宣告col次數
 每一行要的col-sm
 宣告row
 */
@@ -16,15 +14,12 @@ $numOfCols = 3;
 echo "<div class='row text-center'>";
 /*開始迴圈跑店家資料*/
 foreach($ShopData->$value as $data){
-	$menudis = $data->menu ; /*菜單圖數值*/
-	$hrefdis = $data->href ; /*連結數值*/
-
 /*宣告col-sm*/
 	echo "<div class='col-sm'>";
 /*邊框*/
 	echo "<div class='card border-secondary mt-3'>" ;
 	/*圖片的連結.disabled img href if href's value='0' */
-	if ($hrefdis == "0"){
+	if ($data->href == "0"){
 		echo "<a target='_blank' href='#' onclick='return false;'>";
 	} else {
 		echo "<a target='_blank' href='" .$data->href . "'>";
@@ -38,13 +33,13 @@ foreach($ShopData->$value as $data){
 	echo "<h4 class='card-title'>" . $data->name . "</h4>";
 	echo "<p class='card-text'>" . $data->class . "</p>";
 		/*菜單按鈕.disabled button if menu's value='0' */
-	if ($menudis == "0"){
+	if ($data->menu == "0"){
 		echo "<a target='_blank' href='" . $data->menu . "' class='btn btn-info disabled' style='margin-right:4px ;'>" . "<i class='fa fa-book' aria-hidden=true'></i>" . " 菜單" . "</a>";
 	} else {
 		echo "<a target='_blank' href='" . $data->menu . "' class='btn btn-info' style='margin-right:4px ;'>" . "<i class='fa fa-book' aria-hidden=true'></i>" . " 菜單" . "</a>";
 	}
 		/*了解更多按鈕.disabled button if href's value='0' */
-	if ($hrefdis == "0"){
+	if ($data->href == "0"){
 		echo "<a target='_blank' href='" . $data->href . "' class='btn btn-info disabled'> 了解更多</a>";
 	} else {
 		echo "<a target='_blank' href='" . $data->href . "' class='btn btn-info'> 了解更多</a>";

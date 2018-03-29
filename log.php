@@ -128,6 +128,22 @@
     		<p class="mb-1">我還不太確定這樣是不是正確的決定，畢竟資料庫還是比較易於管理，不過Host的資料庫很ㄏ，只好用array代替，然後目前已可抓店家詳細資訊來自動產生了，只是店家列表還要再研究。</p>
   			</a>
 		</div>
+		<div class="list-group wowTop"> 			
+  			<a class="list-group-item list-group-item-action flex-column align-items-start">
+   			<div class="d-flex w-100 justify-content-between">
+      			<h5 class="mb-1">GitHub</i></h5>
+      			<small>2018 / 03 / 28</small>
+    		</div>
+    		<p class="mb-1">我也一直不知道為什麼我沒有把這個專案弄上GitHub，總之現在上了GitHub，然後這段時間改了很多東西吧</p>
+			<li>用Json array取代PHP array</li>
+			<li>用了foreach跟大量的if來自動產生店家列表頁面</li>
+			<li>Code Improve</li><hr>
+			<p>順便說一下目前"火熱開發中"的功能</p>
+			<li>讓店家詳細頁面的店家資訊自動抓取Json array的資料來展出</li>
+			<li>讓六大頁面近幾全自動抓資料產生，簡單來說就是全部用PHP產生</li>
+			<li>不同按鈕呼叫不同內容來填滿iFrame，並且iFrame高度會自動調整(用於照片多的店家分類用)</li>
+  			</a>
+		</div>
 
 
 	</div>

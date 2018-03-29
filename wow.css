@@ -1,5 +1,8 @@
 /* CSS Document */
 @import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+.wowText{
+	font-family: 'Noto Sans TC', sans-serif;
+}
 .wowTitleText{
 	font-family: 'Noto Sans TC', sans-serif;
 }
@@ -109,7 +112,7 @@ body{
 
 /*Header-Nightsky*/
 .header-nightsky {
-    color: white;
+	color: white;
     background: url("http://no-awful-food.byethost7.com/img/header.jpg") no-repeat;
     background-size: cover;
     background-position: center;
