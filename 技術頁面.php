@@ -8,6 +8,20 @@ index.php & [other].php / pages
 Single Page Sample -> doorRight/22.php //Show All
 Multi Page Sample -> doorRight/26.php //Hide All, until user click on it.
 
+[location pages]
+because of auto generate shop list, all pages in this folder will only use these 3 php code :
+<?php
+$value=doorRightShopJson;/*which arrays in shopList should genInfo to loop through*/
+include ('genInfo.php');/*Core of Auto Generate Shop List*/
+include('../footer.php');
+?>
+
+[genDetail.php]
+選擇店家時，自動抓取對應店家資料
+$value = 所選店家
+
+
+
 
 
 

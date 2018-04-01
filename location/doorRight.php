@@ -11,7 +11,7 @@
 <!--產生主體-->
 <?php
 $value=doorRightShopJson;
-include ('genInfo.php');
+include ('genList.php');
 include('../footer.php');
 ?>
 </body>

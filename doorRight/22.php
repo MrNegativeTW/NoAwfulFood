@@ -9,55 +9,9 @@
 	
 	
 <?php
-$json = file_get_contents("shopList.json");
-$ShopData = json_decode($json);
 $thisShop=梅子の店;
-
-foreach($ShopData->$thisShop as $data){
-	
-	
-}
-
-
-
-
-
+include('../location/genDetail.php');
 ?>
-	
-	
-	
-	
-	
-	
-	<div class="container wowTop text-center">
-  		<div class="card border-secondary mt-3">
-    			<a href="#" onclick="return false;"><img class="card-img-top" src="<?php echo $twentyTwop[0]; ?>" alt="圖片失效，請聯絡我們處理。"></a>
-    		<div class="card-body">
-				<h4 class="card-title">梅子の店</h4>
-				<p class="card-text">便當、炒飯</p>
-     			<a target="_blank" href="http://3.bp.blogspot.com/-IG0Yjh6XoVQ/WkDL2ghyKaI/AAAAAAAAa2M/1TYAUn0huIYIFysV-kKjJPyqwT6L2iVyACK4BGAYYCw/s1600/%25E6%25A2%2585%25E5%25AD%2590%25E7%259A%2584%25E5%25BA%2597.png" class="btn btn-info"><?php echo $button[0] ?></a>
-    		</div>
-    		<ul class="list-group list-group-flush"><?php include('../arrays/shopDetailList.php') ?></ul>
-  		</div>
-  		<div class="wowBottom"></div>
-  		<hr>
-  	</div>
-  	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 <h1 class="text-center">菜色實體圖</h1>
