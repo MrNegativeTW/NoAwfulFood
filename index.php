@@ -77,21 +77,21 @@
 	</div>
 	<!--Developing Progress Bar-->
 	<div class="container" style="padding-top: 10px; padding-bottom: 20px;">
-		<h3><p class="text-center">總開發進度：31%</p></h3>
+		<h3><p class="text-center">總開發進度：50%</p></h3>
 		<div class="progress">
-  			<div class="progress-bar bg-info" role="progressbar" style="width: 31%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+  			<div class="progress-bar bg-info" role="progressbar" style="width: 50%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 		</div>
 	</div>
 	<div class="container" style="padding-top: 10px; padding-bottom: 20px;">
-		<h3><p class="text-center">"分類" 開發進度：60%</p></h3>
+		<h3><p class="text-center">"分類" 開發進度：80%</p></h3>
 		<div class="progress">
-  			<div class="progress-bar bg-info" role="progressbar" style="width: 60%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+  			<div class="progress-bar bg-info" role="progressbar" style="width: 80%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 		</div>
 	</div>
 	<div class="container" style="padding-top: 10px; padding-bottom: 20px;">
-		<h3><p class="text-center">"了解更多" 開發進度：2%</p></h3>
+		<h3><p class="text-center">"了解更多" 開發進度：20%</p></h3>
 		<div class="progress">
-  			<div class="progress-bar bg-info" role="progressbar" style="width: 2%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+  			<div class="progress-bar bg-info" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 		</div>
 	</div>
 	
