@@ -366,6 +366,11 @@
       "finalOne": "1"
     }
   ],
+	
+	
+	
+	
+	
   "doorLeftShopJson":[
     {
         "id": 1,
@@ -850,5 +855,399 @@
         "seat": "有",
 		"finalOne": 1
     }
-  ]
+  ],
+	
+	
+	
+	
+	
+"stLeftShopJson":[
+    {
+        "id": 1,
+        "name": "爆漿脆皮紅豆餅",
+        "class": "紅豆餅",
+        "phone": "未提供/待搜集",
+        "times": "晚餐",
+        "drink": "null",
+        "soup": "否",
+        "selfclean": "不適用",
+        "delivery": "null",
+        "image": "http://3.bp.blogspot.com/-aHDlT_ElTw4/WgvfCfe8p5I/AAAAAAAAXoI/d87Wi_TKdBoPtrDxMwywkCjtr6y_xvURQCK4BGAYYCw/s1600/%25E7%2588%2586%25E6%25BC%25BF%25E8%2584%2586%25E7%259A%25AE%25E7%25B4%2585%25E8%25B1%2586%25E9%25A4%2585.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 2,
+        "name": "味泰豐",
+        "class": "雞排、鹽酥雞",
+        "phone": "未提供/待搜集",
+        "times": "null",
+        "drink": "null",
+        "soup": "null",
+        "selfclean": "不適用",
+        "delivery": "null",
+        "image": "http://3.bp.blogspot.com/-_3H3mJOGyXI/WgvfDKNNoRI/AAAAAAAAXoQ/CMZnX-7TNS8FLPNUFjevv6OkdcI08cmIACK4BGAYYCw/s1600/%25E5%2591%25B3%25E6%25B3%25B0%25E8%25B1%2590.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 3,
+        "name": "吳家紅茶冰",
+        "class": "飲料",
+        "phone": "06-2538598",
+        "times": "早餐、午餐、晚餐",
+        "drink": "他就是飲料店",
+        "soup": "否",
+        "selfclean": "不適用",
+        "delivery": "null",
+        "image": "http://4.bp.blogspot.com/-eomrCHIwj2U/WgvfE71D9fI/AAAAAAAAXoY/1Lz2y4z4KcUppw6LE_eA9_RgsH6trn99gCK4BGAYYCw/s1600/%25E5%2590%25B3%25E5%25AE%25B6%25E7%25B4%2585%25E8%258C%25B6%25E5%2586%25B0%2B%25E9%2580%25B2%25E5%2590%2589%25E5%25B0%258F%25E7%2581%25AB%25E9%258D%258B.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 4,
+        "name": "進吉小火鍋",
+        "class": "火鍋",
+        "phone": "06-2538558",
+        "times": "null",
+        "drink": "null",
+        "soup": "null",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://4.bp.blogspot.com/-eomrCHIwj2U/WgvfE71D9fI/AAAAAAAAXoY/1Lz2y4z4KcUppw6LE_eA9_RgsH6trn99gCK4BGAYYCw/s1600/%25E5%2590%25B3%25E5%25AE%25B6%25E7%25B4%2585%25E8%258C%25B6%25E5%2586%25B0%2B%25E9%2580%25B2%25E5%2590%2589%25E5%25B0%258F%25E7%2581%25AB%25E9%258D%258B.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 5,
+        "name": "芋珍嚐 / 燒仙草",
+        "class": "冰品、芋圓、豆花、燒仙草",
+        "phone": "06-2544550",
+        "times": "午餐、晚餐",
+        "drink": "null",
+        "soup": "null",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://2.bp.blogspot.com/-ilpqo02c31E/WgvfLQkf-AI/AAAAAAAAXog/me56JJ9dYzsKiJ9z1mcT7UXLHeAkqoTWACK4BGAYYCw/s1600/%25E8%258A%258B%25E7%258F%258D%25E5%259A%2590%2B%25E7%2587%2592%25E4%25BB%2599%25E8%258D%2589.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 6,
+        "name": "86漢堡",
+        "class": "早餐",
+        "phone": "06-2433487",
+        "times": "null",
+        "drink": "null",
+        "soup": "null",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://2.bp.blogspot.com/-eea5LB1NYSs/Wgve-7m5fiI/AAAAAAAAXn4/0HAceeMuWAAm2E-INzV6Ig6uqjeCgiG3wCK4BGAYYCw/s1600/86%25E6%25BC%25A2%25E5%25A0%25A1.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 7,
+        "name": "雙人煮.鐵板刈包",
+        "class": "刈包",
+        "phone": "0923-165-852",
+        "times": "午餐、晚餐",
+        "drink": "是",
+        "soup": "否",
+        "selfclean": "否",
+        "delivery": "null",
+        "image": "http://2.bp.blogspot.com/-L9wHwTsoLIM/Wgve__C9NPI/AAAAAAAAXoA/8bPL7EGkrBgHIp88CdDuWCpBINVGTAwqwCK4BGAYYCw/s1600/%25E9%259B%2599%25E4%25BA%25BA%25E7%2585%25AE%2B%25E9%2590%25B5%25E6%259D%25BF%25E5%2588%2588%25E5%258C%2585.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 8,
+        "name": "蔡 土魠魚羹",
+        "class": "土魠魚羹",
+        "phone": "未提供/待搜集",
+        "times": "null",
+        "drink": "null",
+        "soup": "null",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://3.bp.blogspot.com/-DBKey_PTWCw/WgviY83OERI/AAAAAAAAXo4/VRW_U9JObLIq7I-X4aFMDFLwvbaaTadkQCK4BGAYYCw/s1600/coming%2Bsoon.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 9,
+        "name": "咖哩烏龍 日式炒燴飯",
+        "class": "鍋燒意麵、粥、麵線",
+        "phone": "未提供/待搜集",
+        "times": "null",
+        "drink": "null",
+        "soup": "null",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://3.bp.blogspot.com/-DBKey_PTWCw/WgviY83OERI/AAAAAAAAXo4/VRW_U9JObLIq7I-X4aFMDFLwvbaaTadkQCK4BGAYYCw/s1600/coming%2Bsoon.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 10,
+        "name": "有間小館",
+        "class": "炒飯、炒麵、丼蓋飯、鍋燒",
+        "phone": "未提供/待搜集",
+        "times": "午餐、晚餐",
+        "drink": "是",
+        "soup": "null",
+        "selfclean": "否",
+        "delivery": "null",
+        "image": "http://4.bp.blogspot.com/-hIMI7SlUrhE/WgvffZ9ZNOI/AAAAAAAAXos/g6Hg5eh889QIMOtqvHGk_U2MKIoFbnyGgCK4BGAYYCw/s1600/%25E6%259C%2589%25E9%2596%2593%25E5%25B0%258F%25E9%25A4%25A8.png",
+        "menu": 0,
+        "href": 0,
+		"finalOne": 1
+    }
+],
+
+
+
+
+
+"stRightShopJson":[
+    {
+        "id": 1,
+        "name": "海洋世界",
+        "class": "類似永和豆漿",
+        "phone": "未提供/待搜集",
+        "times": "早餐、晚餐、宵夜",
+        "drink": "另購",
+        "soup": "另購",
+        "selfclean": "是",
+        "delivery": "null",
+        "image": "http://3.bp.blogspot.com/-RtMavkDJj34/WgXEnrB1x3I/AAAAAAAAXTk/G2WaAWBwWjMNTYWjEmHJUiJf2zFKKALjACK4BGAYYCw/s1600/%25E6%2597%25A9%25E9%25BB%259E%2B%25282%2529.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 17,
+        "name": "越南美食",
+        "class": "河粉、法國麵包",
+        "phone": "未提供/待搜集",
+        "times": "午餐、晚餐",
+        "drink": "否",
+        "soup": "否",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://3.bp.blogspot.com/-RotiU4g6_tM/WtH13HTzsQI/AAAAAAAAgqE/_4RZmYdNMbsSCXo-T5CdlUmr0YlWV5LLACK4BGAYYCw/s1600/%25E8%25B6%258A%25E5%258D%2597%25E7%25BE%258E%25E9%25A3%259F.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 2,
+        "name": "我不是湯包",
+        "class": "湯包專賣",
+        "phone": "0958-874-559",
+        "times": "午餐、晚餐",
+        "drink": "否",
+        "soup": "否",
+        "selfclean": "不適用",
+        "delivery": "否",
+        "image": "http://2.bp.blogspot.com/-eRBmgz09tCY/WsthkjimS0I/AAAAAAAAgiM/a9UPia4jG540kk0qT4LyYe8kFVYFkQAuwCK4BGAYYCw/s1600/%25E6%2588%2591%25E4%25B8%258D%25E6%2598%25AF%25E6%25B9%25AF%25E5%258C%2585.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 4,
+        "name": "海威御飯屋",
+        "class": "藥膳滷味",
+        "phone": "未提供/待搜集",
+        "times": "null",
+        "drink": "null",
+        "soup": "null",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://4.bp.blogspot.com/-b-Ymif_pCqA/WgXFElbisqI/AAAAAAAAXT0/QFBafGHKDnoVRToHsg6OC0JTeaRlU0IYwCK4BGAYYCw/s1600/%25E6%25B5%25B7%25E5%25A8%2581%25E5%25BE%25A1%25E9%25A3%25AF%25E5%25B1%258B.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 3,
+        "name": "乾爹牛肉麵",
+        "class": "牛肉麵",
+        "phone": "未提供/待搜集",
+        "times": "null",
+        "drink": "null",
+        "soup": "null",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://4.bp.blogspot.com/-CzvYTPxCywc/WgXFHfGLK_I/AAAAAAAAXUA/ZQi3BFuARxISEU64exYDXQ8-bk0x0HppwCK4BGAYYCw/s1600/%25E4%25B9%25BE%25E7%2588%25B9%25E7%2589%259B%25E8%2582%2589%25E9%25BA%25B5.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 5,
+        "name": "吉紅鮮美食屋",
+        "class": "炒飯、炒麵、鍋燒",
+        "phone": "06-2427955 / 06-2432078",
+        "times": "10:30~14:00 / 17:00~20:30",
+        "drink": "是",
+        "soup": "null",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://4.bp.blogspot.com/-8eSr92yUlzI/WgXFL_OtVMI/AAAAAAAAXUQ/V5cEf1Kje5kDe8nMFGRvwWTRnbRra1-lwCK4BGAYYCw/s1600/%25E5%2590%2589%25E7%25B4%2585%25E9%25AE%25AE%25E7%25BE%258E%25E9%25A3%259F%25E5%25B1%258B.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 6,
+        "name": "烙餅主題",
+        "class": "早餐、烙餅",
+        "phone": "06-3010026",
+        "times": "null",
+        "drink": "另購",
+        "soup": "null",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://3.bp.blogspot.com/-p1nhYPhX33s/WgXFNnT9_6I/AAAAAAAAXUY/iu4FgmfAdJMDSrwzctuDvnHfM7pfRcB1QCK4BGAYYCw/s1600/%25E7%2583%2599%25E9%25A4%2585%25E4%25B8%25BB%25E9%25A1%258C.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 7,
+        "name": "蝦密雞地",
+        "class": "鹹水雞",
+        "phone": "未提供/待搜集",
+        "times": "null",
+        "drink": "否",
+        "soup": "null",
+        "selfclean": "不適用",
+        "delivery": "null",
+        "image": "http://1.bp.blogspot.com/-2OS0ekzLjxc/WgXFRWNsR2I/AAAAAAAAXUg/YPUQX3d28VI6-Vd0UN2AqixHr_OxQ-yywCK4BGAYYCw/s1600/%25E8%259D%25A6%25E5%25AF%2586%25E9%259B%259E%25E5%259C%25B0.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 8,
+        "name": "品都碳烤",
+        "class": "炭烤",
+        "phone": "未提供/待搜集",
+        "times": "晚餐、宵夜",
+        "drink": "否",
+        "soup": "null",
+        "selfclean": "不適用",
+        "delivery": "null",
+        "image": "http://1.bp.blogspot.com/-v1u1D6z4-pQ/WgXFTxXCvrI/AAAAAAAAXUo/d08ghWnm47kvpLlqjqovyftybapvZQ-6ACK4BGAYYCw/s1600/%25E5%2593%2581%25E9%2583%25BD%25E7%25A2%25B3%25E7%2583%25A4.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 9,
+        "name": "嚕嚕米美食",
+        "class": "炒飯、麵食",
+        "phone": "未提供/待搜集",
+        "times": "午餐、晚餐",
+        "drink": "是",
+        "soup": "是",
+        "selfclean": "否",
+        "delivery": "null",
+        "image": "http://1.bp.blogspot.com/-3BUX_8Eup4Y/WgXFUrC_bGI/AAAAAAAAXUw/tiWzladfhocQq9M6fqf-UA2Pl_YOvFwQACK4BGAYYCw/s1600/%25E5%259A%2595%25E5%259A%2595%25E7%25B1%25B3%25E7%25BE%258E%25E9%25A3%259F.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 10,
+        "name": "微笑雞蛋糕",
+        "class": "雞蛋糕",
+        "phone": "未提供/待搜集",
+        "times": "null",
+        "drink": "否",
+        "soup": "null",
+        "selfclean": "不適用",
+        "delivery": "null",
+        "image": "http://1.bp.blogspot.com/-x_-XenGmjLs/WgXFViKfcjI/AAAAAAAAXU4/_GtUMXMWuhwuKyeves_tspoXZP3dUI5cACK4BGAYYCw/s1600/%25E5%25BE%25AE%25E7%25AC%2591%25E9%259B%259E%25E8%259B%258B%25E7%25B3%2595.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 11,
+        "name": "日式章魚燒",
+        "class": "章魚燒",
+        "phone": "未提供/待搜集",
+        "times": "null",
+        "drink": "否",
+        "soup": "null",
+        "selfclean": "不適用",
+        "delivery": "null",
+        "image": "http://1.bp.blogspot.com/-YHshtS8D5WI/WgXFXaYEhUI/AAAAAAAAXVA/mzbbIb0vpeUciYXze5R4RP5z5LVYtZSlACK4BGAYYCw/s1600/%25E6%2597%25A5%25E5%25BC%258F%25E7%25AB%25A0%25E9%25AD%259A%25E7%2587%2592.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 12,
+        "name": "法式可麗餅",
+        "class": "豆菜麵",
+        "phone": "06-2531599",
+        "times": "null",
+        "drink": "否",
+        "soup": "null",
+        "selfclean": "不適用",
+        "delivery": "null",
+        "image": "http://1.bp.blogspot.com/-ndOuoAyE198/WgXFYuSrgzI/AAAAAAAAXVI/xTy4IxgXyacFNVgvusHnyW0-PecKbojSQCK4BGAYYCw/s1600/%25E6%25B3%2595%25E5%25BC%258F%25E5%258F%25AF%25E9%25BA%2597%25E9%25A4%2585.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 13,
+        "name": "六甲豆菜麵",
+        "class": "可麗餅",
+        "phone": "未提供/待搜集",
+        "times": "null",
+        "drink": "null",
+        "soup": "null",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://4.bp.blogspot.com/-IRmnbJU8aB8/WgXFZfqzZWI/AAAAAAAAXVQ/5RpO9iJ20f8cv1SYIob-FbLsaGOcTvp8QCK4BGAYYCw/s1600/%25E5%2585%25AD%25E7%2594%25B2%25E8%25B1%2586%25E8%258F%259C%25E9%25BA%25B5.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 14,
+        "name": "大武湯包",
+        "class": "湯包",
+        "phone": "未提供/待搜集",
+        "times": "午餐、晚餐",
+        "drink": "另購",
+        "soup": "null",
+        "selfclean": "否",
+        "delivery": "null",
+        "image": "http://1.bp.blogspot.com/-JzvPeO50ixk/WgXFcY1wb_I/AAAAAAAAXVY/BwQDXSgO30AmJt5XF8IHMAv9GBKkgIIPQCK4BGAYYCw/s1600/%25E5%25A4%25A7%25E6%25AD%25A6%25E6%25B9%25AF%25E5%258C%2585.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 15,
+        "name": "沙威瑪/炒羊肉",
+        "class": "炒飯、燴飯、沙威瑪",
+        "phone": "未提供/待搜集",
+        "times": "午餐、晚餐",
+        "drink": "否",
+        "soup": "null",
+        "selfclean": "不適用",
+        "delivery": "null",
+        "image": "http://2.bp.blogspot.com/-nA79y6rUyU8/WgXFdm9Y2xI/AAAAAAAAXVg/rP2jDzj8q54I6eeeh8lQOnvsRUFhn6U-ACK4BGAYYCw/s1600/%25E6%25B2%2599%25E5%25A8%2581%25E7%2591%25AA%25E7%2582%2592%25E7%25BE%258A%25E8%2582%2589.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 16,
+        "name": "鍋燒意麵",
+        "class": "就 鍋燒意麵",
+        "phone": "未提供/待搜集",
+        "times": "午餐、晚餐",
+        "drink": "null",
+        "soup": "null",
+        "selfclean": "null",
+        "delivery": "null",
+        "image": "http://4.bp.blogspot.com/-Ekcqtbbxzks/WgXFez_dW2I/AAAAAAAAXVo/B-Ec9LH9dOkPf8AuAa2w_Iq8s9pNKVbXwCK4BGAYYCw/s1600/%25E9%258D%258B%25E7%2587%2592%25E6%2584%258F%25E9%25BA%25B5.png",
+        "menu": 0,
+        "href": 0,
+		"finalOne": 1
+    }
+]
 }

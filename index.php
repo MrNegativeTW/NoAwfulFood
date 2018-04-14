@@ -51,20 +51,20 @@
     	
 	<!--Our Service-->
 	<div class="container text-center">
-		<div class="row">
+		<div class="row" style="padding-top: 30px; padding-bottom: 30px;">
 			<div class="col-sm wowTop">
 				<i class="fa fa-search fa-4x" aria-hidden="true" style="color: #E96463"></i>
-				<h1 class="wowTop">快速尋找</h1>
+				<h3 class="wowTop">快速尋找</h3>
 				<p class="wowTop">還在為了吃什麼在街上晃?<br>這邊都幫你整理好了!<br>點幾下，什麼資訊都有，根本就是懶人救星 !</p>
 			</div>
 			<div class="col-sm wowTop">
 				<i class="fa fa-pencil fa-4x" aria-hidden="true" style="color: #177E89"></i>
-				<h1 class="wowTop">事先預訂</h1>
+				<h3 class="wowTop">事先預訂</h3>
 				<p class="wowTop">還在擔心下課來不及買飯?<br>這邊都幫你整理好了!<br>讓你上課查詢，下課訂餐，到店付款拿了走 !</p>
 			</div>
 			<div class="col-sm wowTop">
 				<i class="fa fa-camera fa-4x" aria-hidden="true" style="color: #FF9D60"></i>
-				<h1 class="wowTop">真實樣貌</h1>
+				<h3 class="wowTop">真實樣貌</h3>
 				<p class="wowTop">還在好奇食物樣貌跟分量?<br>這邊全部都完整呈現!<br>以後再也不用猜份量，看下就知道適不適合 !</p>
 			</div>
 		</div>
