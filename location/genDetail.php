@@ -2,7 +2,7 @@
 $json = file_get_contents("../location/shopList.json");
 $ShopData = json_decode($json);
 
-foreach($ShopData->doorRightShopJson as $data){
+foreach($ShopData->$value as $data){
 	if ($data->name == $thisShop) {
 		echo "<div class='container wowTop text-center'>";
 		echo "<div class='card border-secondary mt-3'>";
@@ -12,7 +12,12 @@ foreach($ShopData->doorRightShopJson as $data){
 		echo "<div class='card-body'>";
 		echo "<h4 class='card-title'>". $data->name . "</h4>";
 		echo "<p class='card-text'>" . $data->class . "</p>";
-     	echo "<a target='_blank' href='" . $data->menu . "' class='btn btn-info'><i class='fa fa-book' aria-hidden='true'></i> 菜單</a>";
+		
+		if ($data->menu == "0"){
+		echo "<a target='_blank' href='" . $data->menu . "' class='btn btn-info disabled'><i class='fa fa-book' aria-hidden='true'></i> 菜單</a>";
+		} else {
+		echo "<a target='_blank' href='" . $data->menu . "' class='btn btn-info'><i class='fa fa-book' aria-hidden='true'></i> 菜單</a>";
+		}
     	echo "</div>";
 		
 		echo "<ul class='list-group list-group-flush'>";
