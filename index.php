@@ -12,31 +12,19 @@
 				<span class="navbar-toggler-icon"></span>
 			</button>  
 		<div class="collapse navbar-collapse" id="navbarResponsive">
-			<ul class="navbar-nav ml-auto">
+			<ul class="navbar-nav ml-auto text-center">
 				<!--doorRight-->
-            	<li class="nav-item">
-					<a class="nav-link" href="../location/doorLeft">南台街左邊</a>
-				</li>
+            	<li class="nav-item"><a class="nav-link" href="../location/doorLeft">南台街左邊</a></li>
 				<!--doorLeft-->
-				<li class="nav-item">
-					<a class="nav-link" href="../location/doorRight">南台街右邊</a>	
-				</li>
+				<li class="nav-item"><a class="nav-link" href="../location/doorRight">南台街右邊</a></li>
 				<!--stRight-->
-				<li class="nav-item">
-					<a class="nav-link" href="../location/stLeft">大武街左邊</a>						
-				</li>
+				<li class="nav-item"><a class="nav-link" href="../location/stLeft">大武街左邊</a></li>
 				<!--stLeft-->
-				<li class="nav-item">
-					<a class="nav-link" href="../location/stRight">大武街右邊</a>					
-				</li>
+				<li class="nav-item"><a class="nav-link" href="../location/stRight">大武街右邊</a></li>
 				<!--hosp-->
-				<li class="nav-item">
-					<a class="nav-link" href="../location/hosp">往醫院方向</a>
-				</li>
+				<li class="nav-item"><a class="nav-link" href="../location/hosp">往醫院方向</a></li>
 				<!--other-->
-				<li class="nav-item">
-					<a class="nav-link" href="../location/other">其他</a>
-				</li>
+				<li class="nav-item"><a class="nav-link" href="../location/other">其他</a></li>
 			</ul>
         </div>
 	</div>
@@ -51,20 +39,25 @@
     	
 	<!--Our Service-->
 	<div class="container text-center">
+		<div class="wowTop"></div>
+		<div class="wowTop"></div>
+		<h1 class="wowTop">特點</h1>
+		<div class="wowTop"></div>
+		<hr class="wowTop" style="max-width: 75px; border-width: 5px; border-color: #C8C8C8;">
 		<div class="row" style="padding-top: 30px; padding-bottom: 30px;">
-			<div class="col-sm wowTop">
+			<div class="col-sm wowBottom">
 				<i class="fa fa-search fa-4x" aria-hidden="true" style="color: #E96463"></i>
-				<h3 class="wowTop">快速尋找</h3>
+				<h2 class="wowTop ">快速尋找</h2>
 				<p class="wowTop">還在為了吃什麼在街上晃?<br>這邊都幫你整理好了!<br>點幾下，什麼資訊都有，根本就是懶人救星 !</p>
 			</div>
-			<div class="col-sm wowTop">
+			<div class="col-sm wowBottom">
 				<i class="fa fa-pencil fa-4x" aria-hidden="true" style="color: #177E89"></i>
-				<h3 class="wowTop">事先預訂</h3>
+				<h2 class="wowTop">事先預訂</h2>
 				<p class="wowTop">還在擔心下課來不及買飯?<br>這邊都幫你整理好了!<br>讓你上課查詢，下課訂餐，到店付款拿了走 !</p>
 			</div>
-			<div class="col-sm wowTop">
+			<div class="col-sm">
 				<i class="fa fa-camera fa-4x" aria-hidden="true" style="color: #FF9D60"></i>
-				<h3 class="wowTop">真實樣貌</h3>
+				<h2 class="wowTop">真實樣貌</h2>
 				<p class="wowTop">還在好奇食物樣貌跟分量?<br>這邊全部都完整呈現!<br>以後再也不用猜份量，看下就知道適不適合 !</p>
 			</div>
 		</div>
