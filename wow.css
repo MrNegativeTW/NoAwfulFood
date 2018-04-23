@@ -10,7 +10,13 @@
 	font-family: 'Noto Sans TC', sans-serif;	
 }
 .wowTop{
-	padding-top: 15px;			
+	padding-top: 15px;
+}
+.wowTop10{
+	padding-top: 10px;
+}
+.wowTop5{
+	padding-top: 5px;
 }
 .wowBottom{
 	padding-bottom: 20px;

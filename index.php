@@ -36,14 +36,19 @@
         </div>
     </div>
     <!--嗨 你好 原來你也看原始碼-->
-    	
-	<!--Our Service-->
+    <div class="jumbotron jumbotron-fluid">
+   		<div class="container">
+    		<h3 class="display-4 text-center"><i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#cc3300"></i>  請注意...</h3>
+    		<p class="lead text-center" style="font-size: 20px;">本站圖多，請小心您的數據用量<br>當然，我們也會盡力將圖片最佳化</p>
+		</div>
+	</div>
+	<!--特點區塊-->
 	<div class="container text-center">
 		<div class="wowTop"></div>
 		<div class="wowTop"></div>
 		<h1 class="wowTop">特點</h1>
-		<div class="wowTop"></div>
-		<hr class="wowTop" style="max-width: 75px; border-width: 5px; border-color: #C8C8C8;">
+		<h1 class="wowTop5"></h1>
+		<hr class="wowTop" style="max-width: 75px; border-width: 5px; border-color: #33cccc;">
 		<div class="row" style="padding-top: 30px; padding-bottom: 30px;">
 			<div class="col-sm wowBottom">
 				<i class="fa fa-search fa-4x" aria-hidden="true" style="color: #E96463"></i>
@@ -62,13 +67,37 @@
 			</div>
 		</div>
 	</div>
-	<div class="jumbotron jumbotron-fluid">
-   		<div class="container">
-    		<h3 class="display-4 text-center"><i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#cc3300"></i>  請注意...</h3>
-    		<p class="lead text-center" style="font-size: 20px;">本站圖多，請小心您的數據用量<br>當然，我們也會盡力將圖片最佳化</p>
+	
+	<!--地點區塊-->
+	<div style="background-color: #e9ecef">
+		<div class="container text-center" style="padding-bottom: 20px;">
+		<div class="wowTop"></div>
+		<div class="wowTop"></div>
+		<div class="wowTop"></div>
+		<h1 class="wowTop">地點</h1>
+		<h1 class="wowTop5"></h1>
+		<hr class="wowTop" style="max-width: 75px; border-width: 5px; border-color: #33cccc;">
+		<div class="row wowTop">
+			<div class="col-sm">
+				<h4 class="wowTop">南台街左右邊</h4>
+				<p>後門走出去後道路兩旁</p>
+				<h4 class="wowTop">大武街左右邊</h4>
+				<p>南台街左轉後道路兩旁</p>
+				<h4 class="wowTop">往醫院方向</h4>
+				<p>大武街看到眼鏡鏡行後右前方方向</p>
+				<h4 class="wowTop">其他</h4>
+				<p>店家數量少或路名不好辨認地區<br>
+				   例如：櫻花、型男老爹 等
+				</p>
+			</div>
+			<div class="col-sm">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d743.6215703721521!2d120.2241031667013!3d23.02199988433783!3m2!1i1024!2i768!4f13.1!5e0!3m2!1szh-TW!2stw!4v1524386150982" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+			</div>
+		</div>
 		</div>
 	</div>
-	<!--Developing Progress Bar-->
+	
+	<!--開發進度區塊-->
 	<div class="container" style="padding-top: 10px; padding-bottom: 20px;">
 		<h3><p class="text-center">總開發進度：50%</p></h3>
 		<div class="progress">
