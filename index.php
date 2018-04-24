@@ -50,17 +50,17 @@
 		<h1 class="wowTop5"></h1>
 		<hr class="wowTop" style="max-width: 75px; border-width: 5px; border-color: #33cccc;">
 		<div class="row" style="padding-top: 30px; padding-bottom: 30px;">
-			<div class="col-sm wowBottom">
+			<div class="col-sm wowBottom wow zoomIn" data-wow-offset="250">
 				<i class="fa fa-search fa-4x" aria-hidden="true" style="color: #E96463"></i>
 				<h2 class="wowTop ">快速尋找</h2>
 				<p class="wowTop">還在為了吃什麼在街上晃?<br>這邊都幫你整理好了!<br>點幾下，什麼資訊都有，根本就是懶人救星 !</p>
 			</div>
-			<div class="col-sm wowBottom">
+			<div class="col-sm wowBottom wow zoomIn" data-wow-offset="250">
 				<i class="fa fa-pencil fa-4x" aria-hidden="true" style="color: #177E89"></i>
 				<h2 class="wowTop">事先預訂</h2>
 				<p class="wowTop">還在擔心下課來不及買飯?<br>這邊都幫你整理好了!<br>讓你上課查詢，下課訂餐，到店付款拿了走 !</p>
 			</div>
-			<div class="col-sm">
+			<div class="col-sm wow zoomIn" data-wow-offset="250">
 				<i class="fa fa-camera fa-4x" aria-hidden="true" style="color: #FF9D60"></i>
 				<h2 class="wowTop">真實樣貌</h2>
 				<p class="wowTop">還在好奇食物樣貌跟分量?<br>這邊全部都完整呈現!<br>以後再也不用猜份量，看下就知道適不適合 !</p>
@@ -78,7 +78,7 @@
 		<h1 class="wowTop5"></h1>
 		<hr class="wowTop" style="max-width: 75px; border-width: 5px; border-color: #33cccc;">
 		<div class="row wowTop">
-			<div class="col-sm">
+			<div class="col-sm wow slideInLeft" data-wow-offset="250">
 				<h4 class="wowTop">南台街左右邊</h4>
 				<p>後門走出去後道路兩旁</p>
 				<h4 class="wowTop">大武街左右邊</h4>
@@ -90,7 +90,7 @@
 				   例如：櫻花、型男老爹 等
 				</p>
 			</div>
-			<div class="col-sm">
+			<div class="col-sm wow slideInRight" data-wow-offset="250">
 			<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d743.6215703721521!2d120.2241031667013!3d23.02199988433783!3m2!1i1024!2i768!4f13.1!5e0!3m2!1szh-TW!2stw!4v1524386150982" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 		</div>
@@ -119,5 +119,9 @@
 	
 	<!--Loading Footer, including aboutUs,log and more-->
 <?php include('footer.php') ?>
+	<script src="js/wow.min.js"></script>
+    <script>
+    	new WOW().init();
+    </script>
 </body>
 </html>
