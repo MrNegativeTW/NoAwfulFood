@@ -1,5 +1,6 @@
 	<meta charset="UTF-8">
   	<title>No Awful Food</title>
+	<link rel="icon" href="../favicon.png">
    	<mata name="keywords" content="南台,南臺,好吃食物,南台街推薦,南臺階推薦,南台街,南臺階,南台附近好吃,南臺附近好吃">
 	<meta name="description" content="一個蒐集南台街食物資訊的網站">
     <meta name="author" content="Trevor Wu">
