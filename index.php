@@ -5,7 +5,10 @@
 	<!--NavBar-->
 <nav class="navbar navbar-expand-lg fixed-top navbar-dark" id="mainNav" style="background-color: #3d3d3d;position:absolute;">
 	<div class="container-fluid">
-		<a class="navbar-brand js-scroll-trigger" href="../">No Awful Food</a>
+		<a class="navbar-brand js-scroll-trigger" href="../">
+			<img src="../img/navIcon.png" width="30" height="30" class="d-inline-block align-top" alt="">
+			No Awful Food
+		</a>
 			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>  
@@ -47,18 +50,18 @@
 		<div class="row" style="margin-top: 32px;">
 			<div class="col-sm wow zoomIn" data-wow-offset="250" style="margin-bottom: 20px;">
 				<i class="fa fa-search fa-4x" aria-hidden="true" style="color: #E96463"></i>
-				<h2 class="wowTop ">快速尋找</h2>
-				<p class="wowTop">還在為了吃什麼在街上晃?<br>這邊都幫你整理好了!<br>點幾下，什麼資訊都有，根本就是懶人救星 !</p>
+				<h2 class="global-margin-top-16 ">快速尋找</h2>
+				<p class="global-margin-top-16">還在為了吃什麼在街上晃?<br>這邊都幫你整理好了!<br>點幾下，什麼資訊都有，根本就是懶人救星 !</p>
 			</div>
 			<div class="col-sm wow zoomIn" data-wow-offset="250" style="margin-bottom: 20px;">
 				<i class="fa fa-pencil fa-4x" aria-hidden="true" style="color: #177E89"></i>
-				<h2 class="wowTop">事先預訂</h2>
-				<p class="wowTop">還在擔心下課來不及買飯?<br>這邊都幫你整理好了!<br>讓你上課查詢，下課訂餐，到店付款拿了走 !</p>
+				<h2 class="global-margin-top-16">事先預訂</h2>
+				<p class="global-margin-top-16">還在擔心下課來不及買飯?<br>這邊都幫你整理好了!<br>讓你上課查詢，下課訂餐，到店付款拿了走 !</p>
 			</div>
 			<div class="col-sm wow zoomIn" data-wow-offset="250" style="margin-bottom: 20px;">
 				<i class="fa fa-camera fa-4x" aria-hidden="true" style="color: #FF9D60"></i>
-				<h2 class="wowTop">真實樣貌</h2>
-				<p class="wowTop">還在好奇食物樣貌跟分量?<br>這邊全部都完整呈現!<br>以後再也不用猜份量，看下就知道適不適合 !</p>
+				<h2 class="global-margin-top-16">真實樣貌</h2>
+				<p class="global-margin-top-16">還在好奇食物樣貌跟分量?<br>這邊全部都完整呈現!<br>以後再也不用猜份量，看下就知道適不適合 !</p>
 			</div>
 		</div>
 	</div>
@@ -68,15 +71,15 @@
 		<div class="container text-center sheet-padding">
 		<h1 style="margin-bottom: 16px;">地點</h1>
 		<hr style="max-width: 75px; border-width: 5px; border-color: #33cccc;"/>
-		<div class="row wowTop">
+		<div class="row global-margin-top-16">
 			<div class="col-sm wow slideInLeft" data-wow-offset="250">
-				<h4 class="wowTop">南台街左右邊</h4>
+				<h4 class="global-margin-top-16">南台街左右邊</h4>
 				<p>後門走出去後道路兩旁</p>
-				<h4 class="wowTop">大武街左右邊</h4>
+				<h4 class="global-margin-top-16">大武街左右邊</h4>
 				<p>南台街左轉後道路兩旁</p>
-				<h4 class="wowTop">往醫院方向</h4>
+				<h4 class="global-margin-top-16">往醫院方向</h4>
 				<p>大武街看到眼鏡鏡行後右前方方向</p>
-				<h4 class="wowTop">其他</h4>
+				<h4 class="global-margin-top-16">其他</h4>
 				<p>店家數量少或路名不好辨認地區<br>
 				   例如：櫻花、型男老爹 等
 				</p>
