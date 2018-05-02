@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-Hant-TW">
-<head>
 	<?php include '../head.php' ?>
-</head>
-<body class="wowTitleText">
+<body class="global-font-family">
 	<!--NavBar-->
 	<?php include '../navBarIndex.php' ?>
 	<div class="container wowTop text-center">

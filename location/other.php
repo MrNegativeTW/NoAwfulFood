@@ -3,7 +3,7 @@
 <head>
 	<?php include '../head.php' ?>
 </head>
-<body class="wowTitleText">
+<body class="global-font-family">
 	<?php include '../navBarIndex.php' ?>
 <div class="container wowTop text-center">
 	<div class="alert alert-info" role="alert">目前顯示的是：其他</div>

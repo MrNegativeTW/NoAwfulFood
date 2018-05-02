@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="zh-Hant-TW">
-<head>
 	<?php include 'head.php' ?>
-</head>
-<body class="wowTitleText">
+<body class="global-font-family">
 	<!--NavBar-->
 <nav class="navbar navbar-expand-lg fixed-top navbar-dark" id="mainNav" style="background-color: #3d3d3d;position:absolute;">
-	<div class="container">
+	<div class="container-fluid">
 		<a class="navbar-brand js-scroll-trigger" href="../">No Awful Food</a>
 			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -36,31 +34,28 @@
         </div>
     </div>
     <!--嗨 你好 原來你也看原始碼-->
-    <div class="jumbotron jumbotron-fluid">
-   		<div class="container">
-    		<h3 class="display-4 text-center"><i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#cc3300"></i>  請注意...</h3>
-    		<p class="lead text-center" style="font-size: 20px;">本站圖多，請小心您的數據用量<br>當然，我們也會盡力將圖片最佳化</p>
+	<div style="background-color: #f5f5f5">
+		<div class="container text-center sheet-padding">
+    		<h3 class="display-4"><i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#cc3300"></i>  請注意...</h3>
+    		<p class="lead" style="font-size: 20px;">本站圖多，請小心您的數據用量<br>當然，我們也會盡力將圖片最佳化</p>
 		</div>
 	</div>
 	<!--特點區塊-->
-	<div class="container text-center">
-		<div class="wowTop"></div>
-		<div class="wowTop"></div>
-		<h1 class="wowTop">特點</h1>
-		<h1 class="wowTop5"></h1>
-		<hr class="wowTop" style="max-width: 75px; border-width: 5px; border-color: #33cccc;">
-		<div class="row" style="padding-top: 30px; padding-bottom: 30px;">
-			<div class="col-sm wowBottom wow zoomIn" data-wow-offset="250">
+	<div class="container text-center sheet-padding">
+		<h1 style="margin-bottom: 16px;">特點</h1>
+		<hr style="max-width: 75px; border-width: 5px; border-color: #33cccc;"/>
+		<div class="row" style="margin-top: 32px;">
+			<div class="col-sm wow zoomIn" data-wow-offset="250" style="margin-bottom: 20px;">
 				<i class="fa fa-search fa-4x" aria-hidden="true" style="color: #E96463"></i>
 				<h2 class="wowTop ">快速尋找</h2>
 				<p class="wowTop">還在為了吃什麼在街上晃?<br>這邊都幫你整理好了!<br>點幾下，什麼資訊都有，根本就是懶人救星 !</p>
 			</div>
-			<div class="col-sm wowBottom wow zoomIn" data-wow-offset="250">
+			<div class="col-sm wow zoomIn" data-wow-offset="250" style="margin-bottom: 20px;">
 				<i class="fa fa-pencil fa-4x" aria-hidden="true" style="color: #177E89"></i>
 				<h2 class="wowTop">事先預訂</h2>
 				<p class="wowTop">還在擔心下課來不及買飯?<br>這邊都幫你整理好了!<br>讓你上課查詢，下課訂餐，到店付款拿了走 !</p>
 			</div>
-			<div class="col-sm wow zoomIn" data-wow-offset="250">
+			<div class="col-sm wow zoomIn" data-wow-offset="250" style="margin-bottom: 20px;">
 				<i class="fa fa-camera fa-4x" aria-hidden="true" style="color: #FF9D60"></i>
 				<h2 class="wowTop">真實樣貌</h2>
 				<p class="wowTop">還在好奇食物樣貌跟分量?<br>這邊全部都完整呈現!<br>以後再也不用猜份量，看下就知道適不適合 !</p>
@@ -69,14 +64,10 @@
 	</div>
 	
 	<!--地點區塊-->
-	<div style="background-color: #e9ecef">
-		<div class="container text-center" style="padding-bottom: 20px;">
-		<div class="wowTop"></div>
-		<div class="wowTop"></div>
-		<div class="wowTop"></div>
-		<h1 class="wowTop">地點</h1>
-		<h1 class="wowTop5"></h1>
-		<hr class="wowTop" style="max-width: 75px; border-width: 5px; border-color: #33cccc;">
+	<div style="background-color: #f5f5f5">
+		<div class="container text-center sheet-padding">
+		<h1 style="margin-bottom: 16px;">地點</h1>
+		<hr style="max-width: 75px; border-width: 5px; border-color: #33cccc;"/>
 		<div class="row wowTop">
 			<div class="col-sm wow slideInLeft" data-wow-offset="250">
 				<h4 class="wowTop">南台街左右邊</h4>

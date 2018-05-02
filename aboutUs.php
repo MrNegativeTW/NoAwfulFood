@@ -85,7 +85,7 @@
 }
 </style>
 </head>
-<body class="aboutbg wowTitleText">
+<body class="aboutbg global-font-family">
 	<div class="container">
 		<div class="text-center">
 			<img src="img/author.jpg" alt="作者圖片" width="150" height="150" class="center rounded-circle">

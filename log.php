@@ -14,7 +14,7 @@
 }
 	</style>
 </head>
-<body class="wowTitleText">
+<body class="global-font-family">
 	<!--NavBar-->
 	<?php include 'navBarIndex.php' ?>
 <div class="aboutbg">

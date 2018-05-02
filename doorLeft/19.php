@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-Hant-TW">
-<head>
-	<?php include '../head.php'; include '../arrays/doorLeftShop.php'; include('../arrays/items.php'); ?>
-
-</head>
-<body class="wowTitleText">
+	<?php include '../head.php';?>
+<body class="global-font-family">
 	<!--NavBar-->
 	<?php include '../navBarIndex.php' ?>
 	<div class="container wowTop text-center">

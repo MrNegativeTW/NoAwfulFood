@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-Hant-TW">
-<head>
 	<?php include '../head.php' ?>
-</head>
-<body class="wowTitleText">
+<body class="global-font-family">
 <?php
 include ('../navBarIndex.php');
 $value=stRightShopJson;

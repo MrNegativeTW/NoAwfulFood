@@ -1,13 +1,7 @@
 /* CSS Document */
 @import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
-.wowText{
+.global-font-family{
 	font-family: 'Noto Sans TC', sans-serif;
-}
-.wowTitleText{
-	font-family: 'Noto Sans TC', sans-serif;
-}
-.wowDetailText{
-	font-family: 'Noto Sans TC', sans-serif;	
 }
 .wowTop{
 	padding-top: 15px;
@@ -24,6 +18,21 @@
 .wowIndexFontAwesomeColor{
 	color:#D33336
 }
+.sheet-padding{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.sheet-padding-top{
+	padding-top: 60px;
+}
+.sheet-padding-bottom{
+	padding-bottom: 60px;
+}
+/*
+----------------------------
+The Following CSS was copy From Other Free Template 
+----------------------------
+*/
 /*footer with social icon*/
 #myFooter {
 	background-color: #373a48;
@@ -131,13 +140,12 @@ body{
     color: white;
     font-weight: bold;
     font-size: 50px;
-    margin-bottom: 36px;
+    margin-bottom: 16px;
 }
 .header-nightsky .hero p {
     color: rgba(255, 255, 255, 0.6);
     font-size: 20px;
     max-width: 660px;
-    margin: 0 auto 20px;
     font-weight: normal;
     line-height: 1.5;
 }
