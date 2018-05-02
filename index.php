@@ -73,13 +73,13 @@
 		<hr style="max-width: 75px; border-width: 5px; border-color: #33cccc;"/>
 		<div class="row global-margin-top-16">
 			<div class="col-sm wow slideInLeft" data-wow-offset="250">
-				<h4 class="global-margin-top-16">南台街左右邊</h4>
+				<h4 class="wowTop global-margin-top-16">南台街左右邊</h4>
 				<p>後門走出去後道路兩旁</p>
-				<h4 class="global-margin-top-16">大武街左右邊</h4>
+				<h4 class="wowTop global-margin-top-16">大武街左右邊</h4>
 				<p>南台街左轉後道路兩旁</p>
-				<h4 class="global-margin-top-16">往醫院方向</h4>
+				<h4 class="wowTop global-margin-top-16">往醫院方向</h4>
 				<p>大武街看到眼鏡鏡行後右前方方向</p>
-				<h4 class="global-margin-top-16">其他</h4>
+				<h4 class="wowTop global-margin-top-16">其他</h4>
 				<p>店家數量少或路名不好辨認地區<br>
 				   例如：櫻花、型男老爹 等
 				</p>
