@@ -4,7 +4,7 @@
 	<?php include 'head.php' ?>
 	<style>
 	.aboutbg {
-	background: url("http://no-awful-food.byethost7.com/img/about_bg.jpg") no-repeat;
+	background: url("http://no-awful-food.byethost7.com/assets/img/about_bg.jpg") no-repeat;
 	background-color: #191919;
 	background-attachment: fixed;
     background-position: center;

@@ -4,7 +4,7 @@
 	<?php include 'head.php' ?>
 <style>
 .aboutbg {
-	background: url("http://no-awful-food.byethost7.com/img/about_bg.jpg") no-repeat;
+	background: url("http://no-awful-food.byethost7.com/assets/img/about_bg.jpg") no-repeat;
 	background-color: #191919;
 	background-attachment: fixed;
     background-position: center;
@@ -88,7 +88,7 @@
 <body class="aboutbg global-font-family">
 	<div class="container">
 		<div class="text-center">
-			<img src="img/author.jpg" alt="作者圖片" width="150" height="150" class="center rounded-circle">
+			<img src="assets/img/author.jpg" alt="作者圖片" width="150" height="150" class="center rounded-circle">
 			<div class="wowTop"></div>
 			<h1 style="color:white">Trevor Wu</h1>
 			<P style="color:white">18歲 屏東人 大一</p>

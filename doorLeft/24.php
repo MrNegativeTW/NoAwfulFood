@@ -11,7 +11,7 @@
 <?php
 $value=doorLeftShopJson;
 $thisShop=炭烤吐司;
-include('../location/genDetail.php');
+include('../app/genDetail.php');
 ?>
 	
 	

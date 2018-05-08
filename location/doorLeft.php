@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-Hant-TW">
-	<?php include '../head.php'?>
+	<?php include '../head.php' ?>
 <body class="global-font-family">
 <?php
 include ('../navBarIndex.php');

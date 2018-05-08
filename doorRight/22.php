@@ -9,7 +9,7 @@
 <?php
 $value=doorRightShopJson;
 $thisShop=梅子の店;
-include('../location/genDetail.php');
+include('../app/genDetail.php');
 ?>
 	
 	

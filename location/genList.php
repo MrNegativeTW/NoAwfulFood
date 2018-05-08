@@ -3,7 +3,7 @@ $json = file_get_contents("shopList.json");
 $ShopData = json_decode($json);
 /*auto turn list to card view*/
 /*add container*/
-echo "<div class='container'>";
+echo "<div class='container global-font-family'>";
 /*
 宣告col次數
 每一行要的col-sm
