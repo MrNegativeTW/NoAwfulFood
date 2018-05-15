@@ -1,4 +1,3 @@
-
 <?php
 echo "<div class='container global-margin-top-16 text-center animated ' id='place_holder'><div class='alert alert-info' role='alert'>目前顯示的是：";
 if ($value == doorLeftShopJson){

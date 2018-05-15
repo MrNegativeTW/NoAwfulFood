@@ -3,6 +3,9 @@
 .global-font-family{
 	font-family: 'Noto Sans TC', sans-serif;
 }
+body {
+	padding-top: 50px;
+}
 .wowTop{
 	padding-top: 16px;
 }
@@ -28,79 +31,7 @@
 .sheet-padding-bottom{
 	padding-bottom: 60px;
 }
-/*
-----------------------------
-The Following CSS was copy From Other Free Template 
-----------------------------
-*/
-/*footer with social icon*/
-#myFooter {
-	background-color: #373a48;
-	color:white;
-}
-#myFooter .footer-copyright{
-	background-color: #383737;
-	padding-top:3px;
-	padding-bottom:3px;
-	text-align: center;
-}
-#myFooter .footer-copyright p{
-	margin:3px;
-	color: #ccc;
-}
-#myFooter ul{
-	list-style-type: none;
-    padding-left: 0;
-    line-height: 1.7;
-}
-#myFooter h5{
-	font-size: 16px;
-    color: white;
-    font-weight: bold;
-    margin-top: 15px;
-	margin-bottom: 15px;
-}
-#myFooter a{
-	color:white;
-	text-decoration: none;
-}
-#myFooter a:hover, #myFooter a:focus{
-	text-decoration: none;
-	color:white;
-}
-#myFooter .myCols{
-	text-align: center;
-}
-#myFooter .social-networks{
-	text-align: center;
-	padding-top: 30px;
-	padding-bottom: 38px;
-}
-#myFooter .social-networks a{
-    font-size: 32px;
-    margin-right: 5px;
-    margin-left: 5px;
-    color: #f9f9f9;
-    padding: 10px;
-    transition: 0.2s;
-}
-#myFooter .social-networks a:hover{
-	text-decoration: none;
-}
-#myFooter .facebook:hover{
-	color:#0077e2;
-}
-#myFooter .google:hover{
-	color:#ef1a1a;
-}
-#myFooter .twitter:hover{
-	color: #00aced;
-}
-@media screen and (max-width: 767px){
-	#myFooter {
-		text-align: center;
-	}
-}
+
 /* CSS used for positioning the footers at the bottom of the page. */
 /* You can remove this. */
 html{
@@ -150,7 +81,9 @@ body{
     line-height: 1.5;
 }
 
-/*RGB*/
+/*-------------------
+RGB
+-------------------*/
 .colorLoop {
 	animation: bg-animation 7s infinite;
 }

@@ -3,7 +3,7 @@
 	<?php include 'head.php' ?>
 <body class="global-font-family">
 	<!--NavBar-->
-<nav class="navbar navbar-expand-lg fixed-top navbar-dark" id="mainNav" style="background-color: #3d3d3d;position:absolute;">
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark" id="mainNav" style="background-color: #3d3d3d;position:fixed;">
 	<div class="container-fluid">
 		<a class="navbar-brand js-scroll-trigger" href="../">
 			<img src="../assets/img/navIcon.png" width="30" height="30" class="d-inline-block align-top" alt="">

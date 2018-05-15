@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark" id="mainNav" style="background-color: #3d3d3d;">
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" style="background-color: #3d3d3d;">
 	<div class="container-fluid">
 		<a class="navbar-brand js-scroll-trigger" href="../">
 			<img src="../assets/img/navIcon.png" width="30" height="30" class="d-inline-block align-top" alt="">

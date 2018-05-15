@@ -5,9 +5,11 @@ $ShopData = json_decode($json);
 /*add container*/
 echo "<div class='container global-font-family'>";
 /*
+-------------------
 宣告col次數
 每一行要的col-sm
 宣告row
+-------------------
 */
 $colCount = 0;
 $numOfCols = 3;
