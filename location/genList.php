@@ -26,8 +26,14 @@ foreach($ShopData->$value as $data){
 	} else {
 		echo "<a target='_blank' href='" .$data->href . "'>";
 	}
-		/*圖片*/
-	echo "<img class='card-img-top' src='" . "$data->image" . "' alt='" . $data->name;
+	
+	/*無圖自動抓ComingSoon*/
+	if ($data->image == "0"){
+		echo "<img class='card-img-top' src='https://3.bp.blogspot.com/-DBKey_PTWCw/WgviY83OERI/AAAAAAAAXo4/VRW_U9JObLIq7I-X4aFMDFLwvbaaTadkQCK4BGAYYCw/s320/coming%2Bsoon.png' alt='" . $data->name;
+	} else {
+		echo "<img class='card-img-top' src='" . "$data->image" . "' alt='" . $data->name;
+	}
+	
 	echo "'></a>" ;
 	/*Card Body開始*/
 		/*名稱大標*/
