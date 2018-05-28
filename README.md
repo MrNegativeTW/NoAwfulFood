@@ -16,5 +16,5 @@ No Awful Food，由南臺某位大一新生獨立開發，盡個人之力搜集�
 因為還在開發階段<br>
 因為我是新手<br>
 因為這是一個有點麻煩的東西
-## <a href="https://docs.google.com/spreadsheets/d/10KYn5ozhnZ8akLi_1zr9RKeymGKSBS7Bpkj9w9mzn6U/edit?usp=sharing">店家資訊表</a>
+## <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOx2BefYbhgd3wlMx0LSigub2RJsAy1cbN5gxf2FiqRM8lzUDemOrIhjUHFeU9LSHPXIxz1lWWYCtN/pubhtml">店家資訊表</a>
 所有資料皆由一人獨力搜集，這邊就 共享吧

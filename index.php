@@ -92,6 +92,7 @@
 	</div>
 	
 	<!--開發進度區塊-->
+	<div class="sheet-padding">
 	<div class="container" style="padding-top: 10px; padding-bottom: 20px;">
 		<h3><p class="text-center">總開發進度：50%</p></h3>
 		<div class="progress">
@@ -109,6 +110,7 @@
 		<div class="progress">
   			<div class="progress-bar bg-info" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 		</div>
+	</div>
 	</div>
 	
 	<!--Loading Footer, including aboutUs,log and more-->

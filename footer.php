@@ -15,7 +15,7 @@ $("#place_holder").addClass("flash");
 			<a style="color: #000000; font-size: 17px;" href="../aboutUs">關於我們</a>
 		</div>
 		<div class="col-sm wowBottom">
-			<a style="color: #000000; font-size: 17px;" target="_blank" href="https://goo.gl/forms/vJ3BnCl1JzjHeKVE3">聯絡我們</a>
+			<a style="color: #000000; font-size: 17px;" target="_blank" href="https://goo.gl/forms/oazr43vIwYkGGdcg2">聯絡我們</a>
 		</div>
 		<div class="col-sm wowBottom">
 			<a style="color: #000000; font-size: 17px;" href="../log">開發紀錄</a>
