@@ -95,7 +95,6 @@
 			<P style="color:white">因為常常無法決定吃什麼好<br>所以決定做一個網站<br>讓我可以先決定好再出門</P>
 			<a class="btn btn-info" href="http://no-awful-food.byethost7.com" role="button">返回 No Awful Food ›</a>
 			<hr>
-			<P style="color:white">99％圖片都由本人親手拍攝<br>並經過Photoshop處理和壓縮大小</P>
 			<a class="btn btn-secondary" href="https://github.com/MrNegativeTW/NoAwfulFood" role="button">GitHub</a>
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-outline-light" data-toggle="modal" data-target="#exampleModal">查看本站技術資訊 ›</button>
@@ -120,7 +119,7 @@
 </div>
 		
 			<P class="wowTop" style="color:white">開發工具：<br>Dreamweaver / Sublime Text</P>
-			<P style="color:white">測試裝置：<br>Chrome (Win/Mac/Android)<br>Safari (Mac/iPad)<br></P>
+			<P style="color:white">測試裝置：<br>Chrome (Win/Mac/Android)<br>Safari (Mac/iPad)<br>Firefox (Mac)</P>
 			<br>
 		</div>
 </div>
