@@ -25,7 +25,7 @@ foreach($ShopData->$value as $data){
     	echo "<li class='list-group-item'>時段：" . $data->times . "</li>";
     	echo "<li class='list-group-item'>提供飲料：" . $data->drink . "</li>";
     	echo "<li class='list-group-item'>提供湯品：" . $data->soup . "</li>";
-    	echo "<li class='list-group-item'>自行收拾：" . $data->selfClean . "</li>";
+    	echo "<li class='list-group-item'>自行收拾：" . $data->selfclean . "</li>";
     	echo "<li class='list-group-item'>提供外送：" . $data->delivery . "</li>";
  		echo "</ul>";
 		

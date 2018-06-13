@@ -26,7 +26,7 @@
         "selfclean": "不適用",
         "delivery": "null",
         "image": "https://2.bp.blogspot.com/-bwrbBZ8foG0/WgZW7P49DTI/AAAAAAAAXWQ/HUuNfF6roj0MRS2z7Hc_I7w8rDaIsAmwwCK4BGAYYCw/s1600/%25E9%25BC%258E%25E6%2597%25BA%25E9%25A4%2590%25E9%25A3%25B2.png",
-        "menu": 0,
+        "menu": "https://1.bp.blogspot.com/-otyZIWMpq0E/Wxli-k7fJKI/AAAAAAAAjoc/VvztKB5htU45qdLckcjBnuocpHqv5ua7wCK4BGAYYCw/s1600/%25E9%25BC%258E%25E6%2597%25BA.jpg",
         "href": 0
     },
     {
@@ -82,7 +82,7 @@
         "selfclean": "不適用",
         "delivery": "null",
         "image": "https://3.bp.blogspot.com/-FluE8rzfAUg/WgZXF9KPJJI/AAAAAAAAXWw/A7HYvjXQfNg9-90Ubw8V5lBh0Wooa8PzACK4BGAYYCw/s1600/%25E6%258F%25AA%25E6%258F%25AA%25E4%25B8%25B8.png",
-        "menu": 0,
+        "menu": "https://1.bp.blogspot.com/-DmGjSFyroeI/WxljnzmKMDI/AAAAAAAAjoo/eRrEqXrzjG49ZHMRsLcmjL9gQr9DWUu-QCK4BGAYYCw/s1600/%25E9%25A3%25AF%25E7%25B3%25B0.jpg",
         "href": 0
     },
     {
@@ -236,7 +236,7 @@
         "selfclean": "不適用",
         "delivery": "null",
         "image": "https://1.bp.blogspot.com/-KjOMLXYNY0Q/WgZXhOt85SI/AAAAAAAAXYE/6TvoFLPjkns-CTOTtygstJry4ErXaWN7wCK4BGAYYCw/s1600/%25E4%25B8%2580%25E4%25BB%25A3%25E7%259B%25AE.png",
-        "menu": "https://3.bp.blogspot.com/-KoLTa_bh9xQ/WrRyKIrA6SI/AAAAAAAAfq4/roMXdjK6h9kLmi1YdSAc9EIQd-0o3sysQCK4BGAYYCw/s1600/%25E4%25B8%2580%25E4%25BB%25A3%25E7%259B%25AE.jpg",
+        "menu": "https://1.bp.blogspot.com/-WpJjo0UYr40/WxnsUQFccjI/AAAAAAAAjpg/0Mhk29MzqPgPZiD0jQEkqkpQymLN7kfOQCK4BGAYYCw/s1600/%25E4%25B8%2580%25E4%25BB%25A3%25E7%259B%25AE.jpg",
         "href": 0
     },
     {
@@ -321,7 +321,7 @@
         "selfclean": "null",
         "delivery": "null",
         "image": "https://1.bp.blogspot.com/-rv-6vuK2WWk/WgZX1DQUwPI/AAAAAAAAXY8/B-Px0rByLGQ7uiutNcTgNMbW8m9N7INPgCK4BGAYYCw/s1600/%25E6%2591%25A9%25E7%2588%25BE%25E7%25BE%25A9%25E5%25BC%258F%25E6%2596%2599%25E7%2590%2586.png",
-        "menu": "https://1.bp.blogspot.com/-tv7n-rfQoig/WgZX3C2MIyI/AAAAAAAAXZE/6_N9AGvcI1MvLlrvHvaGEtJn3EZUVl1GACK4BGAYYCw/s1600/%25E5%2590%2589%25E5%2593%2581%25E7%2589%259B%25E8%2582%2589%25E9%25BA%25B5.png",
+        "menu": 0,
         "href": 0
     },
     {
@@ -382,12 +382,12 @@
 		"finalOne": 1
     }
 ],
-	
-	
-	
-	
-	
-  "doorLeftShopJson":[
+
+
+
+
+
+"doorLeftShopJson":[
     {
         "id": 1,
         "name": "FB茶飲",
@@ -1339,7 +1339,7 @@
         "soup": "null",
         "selfclean": "null",
         "delivery": "null",
-        "image": 0,
+        "image": "https://4.bp.blogspot.com/-nN7wIk3ZE80/Wxaj21BM9pI/AAAAAAAAjio/aE7E6w6RsXMqSLCPmpZouSU-94TQqyLugCK4BGAYYCw/s1600/%25E7%25B6%25AD%25E7%2590%25AA%25E5%25AA%25BD%25E5%25AA%25BD.png",
         "menu": 0,
         "href": 0
     },
@@ -1367,7 +1367,7 @@
         "soup": "另購",
         "selfclean": "否",
         "delivery": "null",
-        "image": 0,
+        "image": "https://2.bp.blogspot.com/-FiEiB5pFJCo/Wxajz-MucQI/AAAAAAAAjiY/MahdO6H5TsE-Pqsk0_Al9dnomW_iGEa6ACK4BGAYYCw/s1600/%25E5%2585%25AB%25E6%2596%25B9%25E9%259B%25B2%25E9%259B%2586.png",
         "menu": 0,
         "href": 0
     },
@@ -1381,7 +1381,7 @@
         "soup": "null",
         "selfclean": "null",
         "delivery": "null",
-        "image": 0,
+        "image": "https://2.bp.blogspot.com/-PQXKXxpOMn0/Wxaj1Jv5g1I/AAAAAAAAjig/WiVIdGo1Eeg5d1w-DQdaejT2vQGk5JjEwCK4BGAYYCw/s1600/Pizza%2BBar.png",
         "menu": 0,
         "href": 0
     },
