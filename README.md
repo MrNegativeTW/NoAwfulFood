@@ -17,4 +17,6 @@ No Awful Food，由南臺某位大一新生獨立開發，盡個人之力搜集�
 因為我是新手<br>
 因為這是一個有點麻煩的東西
 ## <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOx2BefYbhgd3wlMx0LSigub2RJsAy1cbN5gxf2FiqRM8lzUDemOrIhjUHFeU9LSHPXIxz1lWWYCtN/pubhtml">店家資訊表</a>
-所有資料皆由一人獨力搜集，這邊就 共享吧
+所有資料皆由一人獨力搜集，這邊就 共享吧<br>
+喔對了 關於菜色實體圖片 我已經搜集了超過1G的照片 而且當中有一半還是經過壓縮的
+![wow](http://4.bp.blogspot.com/-xMjjwnsFaQQ/Wxnw0wfZtXI/AAAAAAAAjps/Pk2Y0X9LTIYQhunau4Vww_DEQU_m4vgRACK4BGAYYCw/s1600/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7%2B2018-06-08%2B%25E4%25B8%258A%25E5%258D%258810.56.20.png)
