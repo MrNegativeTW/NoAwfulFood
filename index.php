@@ -24,6 +24,8 @@
 				<li class="nav-item"><a class="nav-link" href="../location/stRight">大武街右邊</a></li>
 				<!--hosp-->
 				<li class="nav-item"><a class="nav-link" href="../location/hosp">往醫院方向</a></li>
+				<!--toBuildS-->
+				<li class="nav-item"><a class="nav-link" href="../location/toBuildS">往S棟小巷</a></li>
 				<!--other-->
 				<li class="nav-item"><a class="nav-link" href="../location/other">其他</a></li>
 			</ul>

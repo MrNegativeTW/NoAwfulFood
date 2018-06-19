@@ -11,6 +11,8 @@ if ($value == doorLeftShopJson){
 	echo "大武街右邊";
 }else if ($value == hospShopJson){
 	echo "往醫院方向";
+}else if ($value == toBuildSJson){
+	echo "往S棟小巷";
 }else if ($value == otherShopJson){
 	echo "其他";
 }

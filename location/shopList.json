@@ -1375,11 +1375,11 @@
         "id": 7,
         "name": "Pizza Bar",
         "class": "Pizza!",
-        "phone": "null",
+        "phone": "06-2433517",
         "times": "午餐、晚餐",
-        "drink": "null",
-        "soup": "null",
-        "selfclean": "null",
+        "drink": "另購",
+        "soup": "另購",
+        "selfclean": "否",
         "delivery": "null",
         "image": "https://2.bp.blogspot.com/-PQXKXxpOMn0/Wxaj1Jv5g1I/AAAAAAAAjig/WiVIdGo1Eeg5d1w-DQdaejT2vQGk5JjEwCK4BGAYYCw/s1600/Pizza%2BBar.png",
         "menu": 0,
@@ -1429,7 +1429,177 @@
 		"finalOne": 1
     }
 ],
-	
+
+
+
+
+
+"toBuildSJson":[
+    {
+        "id": 1,
+        "name": "果塔早午餐",
+        "times": "早餐、午餐",
+        "drink": "另購",
+        "soup": "null",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "有"
+    },
+    {
+        "id": 2,
+        "name": "阿賢越南美食",
+        "times": "AM10:00~PM8:00",
+        "drink": "否",
+        "soup": "null",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "有"
+    },
+    {
+        "id": 3,
+        "name": "型男老爹",
+        "phone": "06-2430769 / 0915789856",
+        "times": "午餐、晚餐",
+        "drink": "是",
+        "soup": "是",
+        "selfclean": "否",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "reservation": "是",
+        "seat": "有"
+    },
+    {
+        "id": 4,
+        "name": "紅豆早餐吧",
+        "times": "早餐、午餐",
+        "drink": "另購",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "有"
+    },
+    {
+        "id": 5,
+        "name": "待更新",
+		"image": 0,
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 6,
+        "name": "葡萄園",
+        "times": "午餐、晚餐",
+        "drink": "是",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "有"
+    },
+    {
+        "id": 7,
+        "name": "香港陳記燒臘快餐",
+        "times": "午餐、晚餐",
+        "drink": "是",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "有"
+    },
+    {
+        "id": 8,
+        "name": "里查里茶",
+        "times": "午餐、晚餐",
+        "drink": "他就是飲料店",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "N/A"
+    },
+    {
+        "id": 9,
+        "name": "麵店",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "有"
+    },
+    {
+        "id": 10,
+        "name": "陽光早餐屋",
+        "drink": "另購",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "無"
+    },
+    {
+        "id": 11,
+        "name": "南台肉粽の家",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "有"
+    },
+    {
+        "id": 12,
+        "name": "辛新早餐店",
+        "times": "早餐",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "有"
+    },
+    {
+        "id": 13,
+        "name": "品味快餐",
+        "times": "午餐、晚餐",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "無"
+    },
+    {
+        "id": 14,
+        "name": "馬來小館",
+        "image": 0,
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 15,
+        "name": "原味館泡沫茶飲連鎖",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "N/A"
+    },
+    {
+        "id": 16,
+        "name": "早! 洋蔥屋",
+        "times": "早餐",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+        "seat": "無"
+    },
+    {
+        "id": 17,
+        "name": "老杜",
+        "times": "午餐、晚餐",
+        "drink": "是",
+        "soup": "否",
+        "selfclean": "否",
+        "delivery": "null",
+        "image": 0,
+        "menu": 0,
+        "href": 0,
+		"finalOne": 1
+    }
+],
+
 
 
 "otherShopJson":[
