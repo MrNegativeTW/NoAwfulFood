@@ -4,7 +4,7 @@
         "id": 1,
         "detailPage": "測試",
         "name": "MoM's Touch",
-        "class": "速食",
+        "classes": "速食",
         "phone": "06-2545888",
         "times": "午餐、晚餐",
         "drink": "另購",
@@ -18,7 +18,7 @@
     {
         "id": 2,
         "name": "鼎旺餐飲",
-        "class": "早餐、便當",
+        "classes": "早餐、便當",
         "phone": "0953-399-818 / 06-2432530",
         "times": "早餐、午餐、晚餐",
         "drink": "null",
@@ -32,7 +32,7 @@
     {
         "id": 3,
         "name": "素食",
-        "class": "早餐、便當",
+        "classes": "早餐、便當",
         "phone": "0918-721-512 / 0930-157-945",
         "times": "早餐、午餐、晚餐",
         "drink": "null",
@@ -46,7 +46,7 @@
     {
         "id": 4,
         "name": "日船章魚小丸子",
-        "class": "章魚燒",
+        "classes": "章魚燒",
         "phone": "未提供/待搜集",
         "times": "晚餐",
         "drink": "否",
@@ -60,7 +60,7 @@
     {
         "id": 5,
         "name": "蜜汁燒烤",
-        "class": "燒烤",
+        "classes": "燒烤",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -74,7 +74,7 @@
     {
         "id": 7,
         "name": "揪揪丸",
-        "class": "飯糰",
+        "classes": "飯糰",
         "phone": "未提供/待搜集",
         "times": "早餐、午餐",
         "drink": "null",
@@ -88,7 +88,7 @@
     {
         "id": 8,
         "name": "鼎吉魯味",
-        "class": "滷味",
+        "classes": "滷味",
         "phone": "未提供/待搜集",
         "times": "晚餐",
         "drink": "否",
@@ -102,7 +102,7 @@
     {
         "id": 9,
         "name": "粥神",
-        "class": "粥",
+        "classes": "粥",
         "phone": "未提供/待搜集",
         "times": "早餐、午餐、晚餐",
         "drink": "null",
@@ -116,7 +116,7 @@
     {
         "id": 10,
         "name": "早餐店",
-        "class": "早餐",
+        "classes": "早餐",
         "phone": "06-2542350",
         "times": "早餐、午餐",
         "drink": "另購",
@@ -130,7 +130,7 @@
     {
         "id": 11,
         "name": "南台水果Bar",
-        "class": "各種水果",
+        "classes": "各種水果",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -144,7 +144,7 @@
     {
         "id": 12,
         "name": "九香回味",
-        "class": "鹽酥雞",
+        "classes": "鹽酥雞",
         "phone": "未提供/待搜集",
         "times": "晚餐",
         "drink": "否",
@@ -158,7 +158,7 @@
     {
         "id": 13,
         "name": "有志麵食館",
-        "class": "麵食",
+        "classes": "麵食",
         "phone": "06-2438191",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -172,7 +172,7 @@
     {
         "id": 29,
         "name": "夯饅",
-        "class": "null",
+        "classes": "null",
         "phone": "null",
         "times": "null",
         "drink": "null",
@@ -186,7 +186,7 @@
     {
         "id": 14,
         "name": "鮮果補給站",
-        "class": "各種水果",
+        "classes": "各種水果",
         "phone": "未提供/待搜集",
         "times": "晚餐",
         "drink": "否",
@@ -200,7 +200,7 @@
     {
         "id": 15,
         "name": "仛茶",
-        "class": "飲料",
+        "classes": "飲料",
         "phone": "06-2535911",
         "times": "午餐、晚餐",
         "drink": "他就是飲料店",
@@ -214,7 +214,7 @@
     {
         "id": 16,
         "name": "小台南便當",
-        "class": "便當",
+        "classes": "便當",
         "phone": "06-2530700",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -228,7 +228,7 @@
     {
         "id": 17,
         "name": "一代目",
-        "class": "飲料",
+        "classes": "飲料",
         "phone": "06-2436008",
         "times": "午餐、晚餐",
         "drink": "他就是飲料店",
@@ -242,7 +242,7 @@
     {
         "id": 18,
         "name": "淳莊燒烤",
-        "class": "null",
+        "classes": "null",
         "phone": "未提供/待搜集",
         "times": "晚餐",
         "drink": "否",
@@ -256,7 +256,7 @@
     {
         "id": 19,
         "name": "麻辣關東煮",
-        "class": "關東煮",
+        "classes": "關東煮",
         "phone": "0939-053-267",
         "times": "晚餐",
         "drink": "否",
@@ -270,7 +270,7 @@
     {
         "id": 20,
         "name": "鼎盛發手工湯包",
-        "class": "湯包、蒸餃、蔥抓餅",
+        "classes": "湯包、蒸餃、蔥抓餅",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -285,7 +285,7 @@
         "id": 22,
         "detailPage": "已製作",
         "name": "梅子の店",
-        "class": "便當、炒飯",
+        "classes": "便當、炒飯",
         "phone": "06-2432171",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -299,7 +299,7 @@
     {
         "id": 23,
         "name": "樂元居",
-        "class": "便當",
+        "classes": "便當",
         "phone": "0965-307676",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -313,7 +313,7 @@
     {
         "id": 24,
         "name": "摩爾義式料理",
-        "class": "null",
+        "classes": "null",
         "phone": "06-2432296",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -327,7 +327,7 @@
     {
         "id": 25,
         "name": "吉品牛肉麵 ",
-        "class": "一般麵類、鍋燒、牛肉麵",
+        "classes": "一般麵類、鍋燒、牛肉麵",
         "phone": "是/外送06-2432888",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -341,7 +341,7 @@
     {
         "id": 26,
         "name": "續杯黑糖乃舖",
-        "class": "黑糖飲品 廣東粥品 鍋燒系列",
+        "classes": "黑糖飲品 廣東粥品 鍋燒系列",
         "phone": "0933-397-470 / 06-2433014",
         "times": "午餐、晚餐",
         "drink": "另購",
@@ -355,7 +355,7 @@
     {
         "id": 27,
         "name": "藤手做壽司",
-        "class": "壽司拼盤",
+        "classes": "壽司拼盤",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -369,7 +369,7 @@
     {
         "id": 28,
         "name": "阿甘淳牛肉麵",
-        "class": "拉麵、意麵、冬粉",
+        "classes": "拉麵、意麵、冬粉",
         "phone": "06-2430589",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -391,7 +391,7 @@
     {
         "id": 1,
         "name": "FB茶飲",
-        "class": "飲料",
+        "classes": "飲料",
         "phone": "06-2437558",
         "times": "午餐、晚餐、宵夜",
         "drink": "他就是飲料店",
@@ -406,7 +406,7 @@
     {
         "id": 2,
         "name": "新美專業茶飲",
-        "class": "飲料",
+        "classes": "飲料",
         "phone": "06-2439405",
         "times": "午餐、晚餐",
         "drink": "他就是飲料店",
@@ -421,7 +421,7 @@
     {
         "id": 3,
         "name": "Aina早午餐",
-        "class": "早午餐",
+        "classes": "早午餐",
         "phone": "06-2434916",
         "times": "早餐、午餐",
         "drink": "另購",
@@ -436,7 +436,7 @@
     {
         "id": 32,
         "name": "咕咕雞蛋糕",
-        "class": "雞蛋糕",
+        "classes": "雞蛋糕",
         "phone": "06-2535300",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -451,7 +451,7 @@
     {
         "id": 4,
         "name": "yoyo Coffee Net",
-        "class": "飲料",
+        "classes": "飲料",
         "phone": "06-2535300",
         "times": "午餐、晚餐",
         "drink": "他就是飲料店",
@@ -466,7 +466,7 @@
     {
         "id": 5,
         "name": "韓式部隊鍋",
-        "class": "韓式料理",
+        "classes": "韓式料理",
         "phone": "0915-284-088",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -481,7 +481,7 @@
     {
         "id": 6,
         "name": "鄭記麻辣燙",
-        "class": "滷味",
+        "classes": "滷味",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -496,7 +496,7 @@
     {
         "id": 7,
         "name": "鑫鱻海產",
-        "class": "鹽酥雞",
+        "classes": "鹽酥雞",
         "phone": "未提供/待搜集",
         "times": "晚餐",
         "drink": "否",
@@ -511,7 +511,7 @@
     {
         "id": 8,
         "name": "阿水伯炒飯",
-        "class": "炒飯/麵/泡飯/烏龍、鍋燒、火鍋",
+        "classes": "炒飯/麵/泡飯/烏龍、鍋燒、火鍋",
         "phone": "0985-162-292",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -526,7 +526,7 @@
     {
         "id": 9,
         "name": "好飽寶[早餐]",
-        "class": "早餐",
+        "classes": "早餐",
         "phone": "未提供/待搜集",
         "times": "早餐",
         "drink": "另購",
@@ -541,7 +541,7 @@
     {
         "id": 10,
         "name": "府城蔥抓餅",
-        "class": "蔥抓餅",
+        "classes": "蔥抓餅",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -556,7 +556,7 @@
     {
         "id": 11,
         "name": "尚介讚香雞排",
-        "class": "香雞排",
+        "classes": "香雞排",
         "phone": "未提供/待搜集",
         "times": "晚餐",
         "drink": "null",
@@ -572,7 +572,7 @@
         "id": 12,
         "detailPage": "已製作",
         "name": "美食典範",
-        "class": "便當",
+        "classes": "便當",
         "phone": "06-2531599",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -587,7 +587,7 @@
     {
         "id": 13,
         "name": "冰品",
-        "class": "水果冰",
+        "classes": "水果冰",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -602,7 +602,7 @@
     {
         "id": 14,
         "name": "炒翻天",
-        "class": "炒飯/麵/泡飯/烏龍、鍋燒、火鍋",
+        "classes": "炒飯/麵/泡飯/烏龍、鍋燒、火鍋",
         "phone": "06-2530599",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -617,7 +617,7 @@
     {
         "id": 15,
         "name": "秒廚老爹",
-        "class": "便當",
+        "classes": "便當",
         "phone": "06-2427388",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -632,7 +632,7 @@
     {
         "id": 31,
         "name": "My Pizza",
-        "class": "Pizza",
+        "classes": "Pizza",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -647,7 +647,7 @@
     {
         "id": 16,
         "name": "金記燒臘",
-        "class": "烤雞、烤鴨、叉燒便當",
+        "classes": "烤雞、烤鴨、叉燒便當",
         "phone": "06-2648160",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -662,7 +662,7 @@
     {
         "id": 17,
         "name": "嘉義火雞肉飯",
-        "class": "有點貴的雞肉飯",
+        "classes": "有點貴的雞肉飯",
         "phone": "06-2535575",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -678,7 +678,7 @@
         "id": 18,
         "detailPage": "已製作",
         "name": "麵の時代",
-        "class": "沒有麵，只有便當",
+        "classes": "沒有麵，只有便當",
         "phone": "06-2434212",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -694,7 +694,7 @@
         "id": 19,
         "detailPage": "已製作",
         "name": "臭臉雞排",
-        "class": "便當",
+        "classes": "便當",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -709,7 +709,7 @@
     {
         "id": 20,
         "name": "吃到寶便當美食",
-        "class": "便當",
+        "classes": "便當",
         "phone": "06-2530165",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -724,7 +724,7 @@
     {
         "id": 21,
         "name": "廣家香快餐",
-        "class": "便當",
+        "classes": "便當",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -739,7 +739,7 @@
     {
         "id": 22,
         "name": "義極客鐵板焗烤",
-        "class": "炒飯/麵/泡飯/烏龍、鍋燒、火鍋",
+        "classes": "炒飯/麵/泡飯/烏龍、鍋燒、火鍋",
         "phone": "06-2432866",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -754,7 +754,7 @@
     {
         "id": 23,
         "name": "早餐 / Q伯地瓜球",
-        "class": "早餐、地瓜球",
+        "classes": "早餐、地瓜球",
         "phone": "未提供/待搜集",
         "times": "早餐 / 2:30~11:00",
         "drink": "另購",
@@ -769,7 +769,7 @@
     {
         "id": 24,
         "name": "炭烤吐司",
-        "class": "碳烤土司",
+        "classes": "碳烤土司",
         "phone": "0961-332-885",
         "times": "晚餐",
         "drink": "否",
@@ -784,7 +784,7 @@
     {
         "id": 25,
         "name": "正港炒公仔麵專家",
-        "class": "炒麵",
+        "classes": "炒麵",
         "phone": "0918-658-318",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -799,7 +799,7 @@
     {
         "id": 26,
         "name": "花朵牛排杯",
-        "class": "杯裝牛排",
+        "classes": "杯裝牛排",
         "phone": "未提供/待搜集",
         "times": "晚餐",
         "drink": "否",
@@ -814,7 +814,7 @@
     {
         "id": 27,
         "name": "鼎兆豐鍋貼",
-        "class": "鍋貼",
+        "classes": "鍋貼",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -829,7 +829,7 @@
     {
         "id": 28,
         "name": "好了啦超大杯",
-        "class": "飲料",
+        "classes": "飲料",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "他就是飲料店",
@@ -844,7 +844,7 @@
     {
         "id": 29,
         "name": "大腸麵線",
-        "class": "就是大腸麵線",
+        "classes": "就是大腸麵線",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -859,7 +859,7 @@
     {
         "id": 30,
         "name": "水韻軒關東煮",
-        "class": "關東煮",
+        "classes": "關東煮",
         "phone": "未提供/待搜集",
         "times": "晚餐",
         "drink": "null",
@@ -882,7 +882,7 @@
     {
         "id": 1,
         "name": "爆漿脆皮紅豆餅",
-        "class": "紅豆餅",
+        "classes": "紅豆餅",
         "phone": "未提供/待搜集",
         "times": "晚餐",
         "drink": "null",
@@ -897,7 +897,7 @@
         "id": 11,
         "name": "桔利食堂",
         "phone": "未提供/待搜集",
-		"class":"丼飯",
+		"classes":"丼飯",
         "times": "null",
         "drink": "null",
         "soup": "null",
@@ -911,7 +911,7 @@
         "id": 12,
         "name": "四川麻辣串串燒",
         "phone": "燒烤",
-		"class":"丼飯",
+		"classes":"丼飯",
         "times": "null",
         "drink": "null",
         "soup": "null",
@@ -925,7 +925,7 @@
     {
         "id": 2,
         "name": "味泰豐",
-        "class": "雞排、鹽酥雞",
+        "classes": "雞排、鹽酥雞",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "null",
@@ -939,7 +939,7 @@
     {
         "id": 3,
         "name": "吳家紅茶冰",
-        "class": "飲料",
+        "classes": "飲料",
         "phone": "06-2538598",
         "times": "早餐、午餐、晚餐",
         "drink": "他就是飲料店",
@@ -953,7 +953,7 @@
     {
         "id": 4,
         "name": "進吉小火鍋",
-        "class": "火鍋",
+        "classes": "火鍋",
         "phone": "06-2538558",
         "times": "null",
         "drink": "null",
@@ -967,7 +967,7 @@
     {
         "id": 5,
         "name": "芋珍嚐 / 燒仙草",
-        "class": "冰品、芋圓、豆花、燒仙草",
+        "classes": "冰品、芋圓、豆花、燒仙草",
         "phone": "06-2544550",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -981,7 +981,7 @@
     {
         "id": 6,
         "name": "86漢堡",
-        "class": "早餐",
+        "classes": "早餐",
         "phone": "06-2433487",
         "times": "null",
         "drink": "null",
@@ -995,7 +995,7 @@
     {
         "id": 7,
         "name": "雙人煮.鐵板刈包",
-        "class": "刈包",
+        "classes": "刈包",
         "phone": "0923-165-852",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -1009,7 +1009,7 @@
     {
         "id": 8,
         "name": "蔡 土魠魚羹",
-        "class": "土魠魚羹",
+        "classes": "土魠魚羹",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "null",
@@ -1023,7 +1023,7 @@
     {
         "id": 9,
         "name": "咖哩烏龍 日式炒燴飯",
-        "class": "鍋燒意麵、粥、麵線",
+        "classes": "鍋燒意麵、粥、麵線",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "null",
@@ -1037,7 +1037,7 @@
     {
         "id": 10,
         "name": "有間小館",
-        "class": "炒飯、炒麵、丼蓋飯、鍋燒",
+        "classes": "炒飯、炒麵、丼蓋飯、鍋燒",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -1059,7 +1059,7 @@
     {
         "id": 1,
         "name": "海洋世界",
-        "class": "類似永和豆漿",
+        "classes": "類似永和豆漿",
         "phone": "未提供/待搜集",
         "times": "17:00~2:00",
         "drink": "另購",
@@ -1073,7 +1073,7 @@
     {
         "id": 17,
         "name": "越南美食",
-        "class": "河粉、法國麵包",
+        "classes": "河粉、法國麵包",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -1087,7 +1087,7 @@
     {
         "id": 2,
         "name": "楓 小籠包",
-        "class": "湯包專賣",
+        "classes": "湯包專賣",
         "phone": "0958-874-559",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -1101,7 +1101,7 @@
     {
         "id": 3,
         "name": "乾爹牛肉麵",
-        "class": "牛肉麵",
+        "classes": "牛肉麵",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "null",
@@ -1115,7 +1115,7 @@
     {
         "id": 4,
         "name": "海威御飯屋",
-        "class": "藥膳滷味",
+        "classes": "藥膳滷味",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "null",
@@ -1129,7 +1129,7 @@
     {
         "id": 18,
         "name": "拾號拾參巷",
-        "class": "複合餐飲",
+        "classes": "複合餐飲",
         "phone": "06-2541323",
         "times": "午餐、晚餐",
         "drink": "另購",
@@ -1143,7 +1143,7 @@
     {
         "id": 5,
         "name": "吉紅鮮美食屋",
-        "class": "炒飯、炒麵、鍋燒",
+        "classes": "炒飯、炒麵、鍋燒",
         "phone": "06-2427955 / 06-2432078",
         "times": "10:30~14:00 / 17:00~20:30",
         "drink": "是",
@@ -1157,7 +1157,7 @@
     {
         "id": 6,
         "name": "烙餅主題",
-        "class": "早餐、烙餅",
+        "classes": "早餐、烙餅",
         "phone": "06-3010026",
         "times": "null",
         "drink": "另購",
@@ -1171,7 +1171,7 @@
     {
         "id": 7,
         "name": "蝦密雞地",
-        "class": "鹹水雞",
+        "classes": "鹹水雞",
         "phone": "0929-229-455",
         "times": "18:30~24:00",
         "drink": "否",
@@ -1185,7 +1185,7 @@
     {
         "id": 8,
         "name": "品都碳烤",
-        "class": "炭烤",
+        "classes": "炭烤",
         "phone": "未提供/待搜集",
         "times": "晚餐、宵夜",
         "drink": "否",
@@ -1199,7 +1199,7 @@
     {
         "id": 17,
         "name": "天香 牛肉河粉",
-        "class": "越南美食",
+        "classes": "越南美食",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -1214,7 +1214,7 @@
     {
         "id": 9,
         "name": "嚕嚕米美食",
-        "class": "炒飯、麵食",
+        "classes": "炒飯、麵食",
         "phone": "06-2532208 / 0932-843-005",
         "times": "午餐、晚餐",
         "drink": "是",
@@ -1228,7 +1228,7 @@
     {
         "id": 10,
         "name": "微笑雞蛋糕",
-        "class": "雞蛋糕",
+        "classes": "雞蛋糕",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "否",
@@ -1242,7 +1242,7 @@
     {
         "id": 11,
         "name": "日式章魚燒",
-        "class": "章魚燒",
+        "classes": "章魚燒",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "否",
@@ -1256,7 +1256,7 @@
     {
         "id": 12,
         "name": "法式可麗餅",
-        "class": "豆菜麵",
+        "classes": "豆菜麵",
         "phone": "06-2531599",
         "times": "null",
         "drink": "否",
@@ -1270,7 +1270,7 @@
     {
         "id": 13,
         "name": "六甲豆菜麵",
-        "class": "可麗餅",
+        "classes": "可麗餅",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "null",
@@ -1284,7 +1284,7 @@
     {
         "id": 14,
         "name": "大武湯包",
-        "class": "湯包",
+        "classes": "湯包",
         "phone": "06-2435419",
         "times": "午餐、晚餐",
         "drink": "另購",
@@ -1298,7 +1298,7 @@
     {
         "id": 15,
         "name": "沙威瑪/炒羊肉",
-        "class": "炒飯、燴飯、沙威瑪",
+        "classes": "炒飯、燴飯、沙威瑪",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -1312,7 +1312,7 @@
     {
         "id": 16,
         "name": "鍋燒意麵",
-        "class": "就 鍋燒意麵",
+        "classes": "就 鍋燒意麵",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "null",
@@ -1334,7 +1334,7 @@
     {
         "id": 1,
         "name": "小宇宙",
-        "class": "甜甜圈",
+        "classes": "甜甜圈",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
@@ -1348,7 +1348,7 @@
     {
         "id": 2,
         "name": "紅茶幫",
-        "class": "飲料店",
+        "classes": "飲料店",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "他就是飲料店",
@@ -1362,7 +1362,7 @@
     {
         "id": 3,
         "name": "麥威登早點",
-        "class": "早午餐之類的",
+        "classes": "早午餐之類的",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "另購",
@@ -1376,7 +1376,7 @@
     {
         "id": 11,
         "name": "阿忠滷味",
-        "class": "滷味",
+        "classes": "滷味",
         "phone": "未提供/待搜集",
         "times": "null",
         "image": 0,
@@ -1387,7 +1387,7 @@
     {
         "id": 4,
         "name": "維琪媽媽拉麵館",
-        "class": "麵店",
+        "classes": "麵店",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "null",
@@ -1401,7 +1401,7 @@
     {
         "id": 5,
         "name": "韓軒海苔飯捲",
-        "class": "海苔飯捲",
+        "classes": "海苔飯捲",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "null",
@@ -1415,7 +1415,7 @@
     {
         "id": 6,
         "name": "八方雲集",
-        "class": "鍋貼、水餃",
+        "classes": "鍋貼、水餃",
         "phone": "06-2438591",
         "times": "午餐、晚餐",
         "drink": "另購",
@@ -1429,7 +1429,7 @@
     {
         "id": 7,
         "name": "Pizza Bar",
-        "class": "Pizza!",
+        "classes": "Pizza!",
         "phone": "06-2433517",
         "times": "午餐、晚餐",
         "drink": "另購",
@@ -1443,7 +1443,7 @@
     {
         "id": 12,
         "name": "南台池上飯包",
-        "class": "便當",
+        "classes": "便當",
         "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "image": 0,
@@ -1454,7 +1454,7 @@
     {
         "id": 13,
         "name": "3Q脆皮雞排",
-        "class": "雞排、鹽酥雞",
+        "classes": "雞排、鹽酥雞",
         "phone": "0917-172-985",
         "times": "14:30 ~ 2:00",
         "drink": "另購",
@@ -1469,7 +1469,7 @@
     {
         "id": 8,
         "name": "香草雞排",
-        "class": "鹽酥雞",
+        "classes": "鹽酥雞",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "null",
@@ -1483,7 +1483,7 @@
     {
         "id": 9,
         "name": "高師傅滷味",
-        "class": "滷味",
+        "classes": "滷味",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "null",
@@ -1497,7 +1497,7 @@
     {
         "id": 10,
         "name": "杜家麵店",
-        "class": "麵店",
+        "classes": "麵店",
         "phone": "未提供/待搜集",
         "times": "null",
         "drink": "null",
@@ -1519,10 +1519,11 @@
     {
         "id": 1,
         "name": "果塔早午餐",
-        "times": "早餐、午餐",
+        "phone": "06-2533007",
+        "times": "6:00 ~ 13:00",
         "drink": "另購",
         "soup": "null",
-        "image": 0,
+        "image": "https://2.bp.blogspot.com/-9l6DQBbb4dw/WyoMlGNpKQI/AAAAAAAAkCs/1WN7AFjDE_AMIkhymR6CKXdjQSCLdyFxACK4BGAYYCw/s1600/%25E6%259E%259C%25E5%25A1%2594%25E6%2597%25A9%25E5%258D%2588%25E9%25A4%2590.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
@@ -1530,10 +1531,12 @@
     {
         "id": 2,
         "name": "阿賢越南美食",
-        "times": "AM10:00~PM8:00",
+        "classes": "越南美食",
+        "phone": "0970-402-529",
+        "times": "10:00 ~ 20:00",
         "drink": "否",
         "soup": "null",
-        "image": 0,
+        "image": "https://1.bp.blogspot.com/-is1V6ZO5-ds/WyoMjJ98SSI/AAAAAAAAkCk/L5XkyJd8qVg2olwaLKSGuoRBnRKMqekDQCK4BGAYYCw/s1600/%25E9%2598%25BF%25E8%25B3%25A2%2B%25E8%25B6%258A%25E5%258D%2597%25E6%25B2%25B3%25E7%25B2%2589.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
@@ -1541,40 +1544,46 @@
     {
         "id": 3,
         "name": "型男老爹",
-        "phone": "06-2430769 / 0915789856",
+        "classes": "飯麵",
+        "phone": "06-2430769 / 0915-789-856",
         "times": "午餐、晚餐",
         "drink": "是",
         "soup": "是",
         "selfclean": "否",
-        "image": 0,
-        "menu": 0,
+        "image": "http://3.bp.blogspot.com/-1z9D0Mbn9K4/Wkxcq-1R0ZI/AAAAAAAAbkI/BpmcXySs4FY7TXgalz67ZkZmnJOePqSyACK4BGAYYCw/s1600/%25E5%259E%258B%25E7%2594%25B7%25E8%2580%2581%25E7%2588%25B9.png",
+        "menu": "http://1.bp.blogspot.com/-IovTa6NkAlE/WkxgZ-IPiyI/AAAAAAAAbkU/vAk3QcwcEAcFL2qywFZa8O_lTHVkpVx2wCK4BGAYYCw/s1600/%25E5%259E%258B%25E7%2594%25B7%25E8%2580%2581%25E7%2588%25B9.png",
         "href": 0,
-        "reservation": "是",
         "seat": "有"
     },
     {
         "id": 4,
         "name": "紅豆早餐吧",
+        "classes": "早午餐",
+        "phone": "06-2532852",
         "times": "早餐、午餐",
         "drink": "另購",
-        "image": 0,
+        "delivery": "是",
+        "image": "https://3.bp.blogspot.com/-XShh931NbxE/WyoMSeWhE2I/AAAAAAAAkCE/YElHf6E5VskOgYFLeUvPlHaIItTV9moiQCK4BGAYYCw/s1600/%25E7%25B4%2585%25E8%25B1%2586%25E6%2597%25A9%25E5%258D%2588%25E9%25A4%2590.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
     },
     {
         "id": 5,
-        "name": "待更新",
-		"image": 0,
+        "name": "李好食堂",
+        "times": "午餐、晚餐",
+        "image": "https://1.bp.blogspot.com/-DFXPJNyn1Nk/WyoMRIGQ7EI/AAAAAAAAkB8/zQVwHHMS1kgdGCH3sfeKEmKnkxEAf53-gCK4BGAYYCw/s1600/%25E6%259D%258E%25E5%25A5%25BD%25E9%25A3%259F%25E5%25A0%2582.png",
         "menu": 0,
         "href": 0
     },
     {
         "id": 6,
         "name": "葡萄園",
-        "times": "午餐、晚餐",
+        "classes": "丼飯、麵食、焗烤",
+        "phone": "06-2536968",
+        "times": "11:00 ~ 14:00 週日休",
         "drink": "是",
-        "image": 0,
+        "image": "https://3.bp.blogspot.com/-ClRCFbSrN9Y/WyoMO_pH-eI/AAAAAAAAkB0/pawiG1NzNEMDB8ohtw0ZYtrtgovvDwPywCK4BGAYYCw/s1600/%25E8%2591%25A1%25E8%2590%2584%25E5%259C%2592.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
@@ -1582,9 +1591,13 @@
     {
         "id": 7,
         "name": "香港陳記燒臘快餐",
+        "classes": "燒臘",
+        "phone": "06-2433315",
         "times": "午餐、晚餐",
         "drink": "是",
-        "image": 0,
+        "soup": "是",
+        "delivery": "null",
+        "image": "https://3.bp.blogspot.com/-p32zX6N-GuQ/WyoMNrgAlfI/AAAAAAAAkBs/7lPHYPpVELo4GYiNHOfQQN3du1sY7BZ8QCK4BGAYYCw/s1600/%25E9%25A6%2599%25E6%25B8%25AF%25E9%2599%25B3%25E8%25A8%2598%25E7%2587%2592%25E8%2587%2598%25E5%25BF%25AB%25E9%25A4%2590.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
@@ -1592,9 +1605,14 @@
     {
         "id": 8,
         "name": "里查里茶",
+        "classes": "飲料店",
+        "phone": "06-2430698",
         "times": "午餐、晚餐",
         "drink": "他就是飲料店",
-        "image": 0,
+        "soup": "否",
+        "selfclean": "不適用",
+        "delivery": "是",
+        "image": "https://3.bp.blogspot.com/-_riT98AqrM4/WyoMMZtxD0I/AAAAAAAAkBg/9_JHYTtt8Xw6tm14AFqkwPUn0KqI3hz4ACK4BGAYYCw/s1600/%25E9%2587%258C%25E6%259F%25A5%25E9%2587%258C%25E6%259F%25A5.png",
         "menu": 0,
         "href": 0,
         "seat": "N/A"
@@ -1602,7 +1620,8 @@
     {
         "id": 9,
         "name": "麵店",
-        "image": 0,
+        "classes": "麵食",
+        "image": "https://3.bp.blogspot.com/-VYD6fj3kR9c/WyoMLRKJN6I/AAAAAAAAkBY/-0md_aLkc2Yq6DGTkOI9ZNhqyjfCT4AOgCK4BGAYYCw/s1600/%25E9%25BA%25B5%25E5%25BA%2597.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
@@ -1610,8 +1629,10 @@
     {
         "id": 10,
         "name": "陽光早餐屋",
+        "classes": "早餐",
+        "times": "早餐",
         "drink": "另購",
-        "image": 0,
+        "image": "https://3.bp.blogspot.com/-8yCWDq668ls/WyoMKb6dDYI/AAAAAAAAkBQ/QSMSW8iuGi0t6kbZ_HiRVMjoee-OdWYHACK4BGAYYCw/s1600/%25E9%2599%25BD%25E5%2585%2589%25E6%2597%25A9%25E9%25A4%2590%25E5%25B1%258B.png",
         "menu": 0,
         "href": 0,
         "seat": "無"
@@ -1619,7 +1640,9 @@
     {
         "id": 11,
         "name": "南台肉粽の家",
-        "image": 0,
+        "classes": "肉粽、麵食、碗粿",
+        "selfclean": "否",
+        "image": "https://4.bp.blogspot.com/-MotviVwQSQA/WyoMIochyuI/AAAAAAAAkBI/401sIDQTVZEPnt2UMMZG-8Lhbf_MWpkFACK4BGAYYCw/s1600/%25E5%258D%2597%25E5%258F%25B0%25E8%2582%2589%25E7%25B2%25BD%25E7%259A%2584%25E5%25AE%25B6.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
@@ -1628,7 +1651,7 @@
         "id": 12,
         "name": "辛新早餐店",
         "times": "早餐",
-        "image": 0,
+        "image": "https://2.bp.blogspot.com/-e8oFEaQTmOg/WyoMBif7NHI/AAAAAAAAkA0/HfmWnK8EY38XBPu9O8rhqLDQ9fpuzQTywCK4BGAYYCw/s1600/%25E8%25BE%259B%25E6%2596%25B0%25E6%2597%25A9%25E9%25A4%2590%25E5%25BA%2597.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
@@ -1636,45 +1659,59 @@
     {
         "id": 13,
         "name": "品味快餐",
+        "classes": "便當",
+        "phone": "06-2437913",
         "times": "午餐、晚餐",
-        "image": 0,
+        "image": "https://2.bp.blogspot.com/-UGwHFhvCXQY/WyoL9NhtUoI/AAAAAAAAkAs/_buVgu08wOcbY6JtZDSuLe956mNIJCmhQCK4BGAYYCw/s1600/%25E5%2593%2581%25E5%2591%25B3%25E5%25BF%25AB%25E9%25A4%2590.png",
         "menu": 0,
         "href": 0,
         "seat": "無"
     },
     {
         "id": 14,
-        "name": "馬來小館",
-        "image": 0,
+        "name": "哈娜幸福廚房",
+        "phone": "06-2433771",
+		"image": "https://3.bp.blogspot.com/-_w0RJ0S8sHQ/WyoSTPDShRI/AAAAAAAAkC8/AZSxRCZXn8wGcV-xMz2uc4BG8aXDr48tACK4BGAYYCw/s1600/%25E5%2593%2588%25E5%25A8%259C%25E5%25B9%25B8%25E7%25A6%258F%25E5%25BB%259A%25E6%2588%25BF.pngu",
         "menu": 0,
         "href": 0
     },
     {
         "id": 15,
+        "name": "馬來小館",
+        "image": "https://4.bp.blogspot.com/-rBbRe8VYguQ/WyoL5K9XwkI/AAAAAAAAkAk/W7BB4zsTMtkycOYkDiVW9_kwq99EbAT7ACK4BGAYYCw/s1600/%25E9%25A6%25AC%25E4%25BE%2586%25E5%25B0%258F%25E9%25A4%25A8.png",
+        "menu": 0,
+        "href": 0
+    },
+    {
+        "id": 16,
         "name": "原味館泡沫茶飲連鎖",
-        "image": 0,
+        "classes": "飲料",
+        "drink": "他就是飲料店",
+        "soup": "否",
+        "selfclean": "不適用",
+        "image": "https://3.bp.blogspot.com/-u8qTQKL-vWM/WyoLh5Qjm2I/AAAAAAAAkAY/jD0TX8JXY1s41ak6QSF7-nTEu9kEhglbACK4BGAYYCw/s1600/%25E5%258E%259F%25E5%2591%25B3%25E9%25A4%25A8%25E6%25B3%25A1%25E6%25B2%25AB%25E8%258C%25B6%25E9%25A3%25B2%25E9%2580%25A3%25E9%258E%2596.png",
         "menu": 0,
         "href": 0,
         "seat": "N/A"
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "早! 洋蔥屋",
-        "times": "早餐",
         "image": 0,
         "menu": 0,
         "href": 0,
         "seat": "無"
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "老杜",
-        "times": "午餐、晚餐",
+        "classes": "炒飯、燴飯、麵食",
+        "times": "一~五 11:00~14:00 / 17:00~20:00",
         "drink": "是",
         "soup": "否",
         "selfclean": "否",
         "delivery": "null",
-        "image": 0,
+        "image": "https://1.bp.blogspot.com/-2OSYG3650lE/WyoLHoOO2mI/AAAAAAAAkAM/oRHD-oDj2gEjgKkRFikDNEp7RBSn16VdACK4BGAYYCw/s1600/%25E8%2580%2581%25E6%259D%259C.png",
         "menu": 0,
         "href": 0,
 		"finalOne": 1
@@ -1687,9 +1724,10 @@
     {
         "id": 1,
         "name": "咖哩媽媽 (美聯社右轉)",
+        "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
         "drink": "否",
-        "image": 0,
+        "image": "https://3.bp.blogspot.com/-r_KGD6qNSNk/Wynqii1hbfI/AAAAAAAAj-c/y9_KfqyvSRIb0ZvLhm6h3Ow2av20HGndgCK4BGAYYCw/s1600/%25E5%2592%2596%25E5%2593%25A9%25E5%25AA%25BD%25E5%25AA%25BD.png",
         "menu": 0,
         "href": 0,
         "seat": "無"
@@ -1697,7 +1735,10 @@
     {
         "id": 2,
         "name": "麵店 (美聯社右轉)",
-        "image": 0,
+        "classes": "就 麵店",
+        "phone": "未提供/待搜集",
+        "times": "午餐、晚餐",
+        "image": "https://3.bp.blogspot.com/-j8Cn0b7vYtQ/WynsHXIKiMI/AAAAAAAAj-s/1IBMaz3R8_cL2fOw6CjLRtFFz3-lgjeRQCK4BGAYYCw/s1600/%25E9%25BA%25B5%25E5%25BA%2597.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
@@ -1705,7 +1746,9 @@
     {
         "id": 3,
         "name": "啾冰屋 (東江711左轉)",
-        "image": 0,
+        "classes": "冰店",
+        "phone": "未提供/待搜集",
+        "image": "https://4.bp.blogspot.com/-zfmL7fmI1ng/WynsIoWqixI/AAAAAAAAj-0/GOkSFmzYq-QTQBbt2890XGlH_go1JKtfwCK4BGAYYCw/s1600/%25E6%258F%25AA%25E5%2586%25B0%25E5%25B1%258B.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
@@ -1714,9 +1757,10 @@
         "id": 4,
         "name": "金時紅豆湯圓 (阿水伯旁)",
         "classes": "湯圓、豆花",
+        "phone": "未提供/待搜集",
         "times": "晚餐",
         "drink": "null",
-        "image": 0,
+        "image": "https://4.bp.blogspot.com/-SfezM3Nz0rc/WynsJcqneXI/AAAAAAAAj-8/uW09ogfNBho5wgWI9nkT3Zy-5GTIpwjbwCK4BGAYYCw/s1600/%25E9%2587%2591%25E7%259F%25B3%25E7%25B4%2585%25E8%25B1%2586%25E6%25B9%25AF%25E5%259C%2593.png",
         "menu": 0,
         "href": 0,
         "seat": "N/A"
@@ -1725,7 +1769,12 @@
         "id": 5,
         "name": "紅豆餅 (阿水伯旁)",
         "classes": "純．紅豆餅",
+        "phone": "未提供/待搜集",
         "times": "晚餐",
+        "drink": "否",
+        "soup": "否",
+        "selfclean": "不適用",
+        "delivery": "否",
         "image": 0,
         "menu": 0,
         "href": 0,
@@ -1735,6 +1784,7 @@
         "id": 6,
         "name": "用炒ㄟ滷味 (眼鏡行前面)",
         "classes": "滷味",
+        "phone": "未提供/待搜集",
         "times": "晚餐",
         "image": 0,
         "menu": 0,
@@ -1742,38 +1792,50 @@
         "seat": "N/A"
     },
     {
-        "id": 11,
+        "id": 7,
         "name": "待更新",
-        "image": 0,
+        "phone": "未提供/待搜集",
+        "image": "https://4.bp.blogspot.com/-n5p9F8R1vt0/WyntHDdwmSI/AAAAAAAAj_w/R8nJeCKJFIk1EID7vxjzlRNJTbIAg_DtACK4BGAYYCw/s1600/%25E6%25BB%25B7%25E5%2591%25B3.png",
         "menu": 0,
         "href": 0
     },
     {
-        "id": 12,
+        "id": 8,
         "name": "櫻花の食堂 (出門左轉)",
         "classes": "各種日本料理",
+        "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
-        "image": 0,
+        "drink": "是",
+        "soup": "是",
+        "selfclean": "否",
+        "delivery": "null",
+        "image": "https://4.bp.blogspot.com/-9OlUicQoXKs/WynsNq7WoaI/AAAAAAAAj_E/WgTUWoFb9Gc_G9Cc47b4Tuf2uTALwYsawCK4BGAYYCw/s1600/%25E6%25AB%25BB%25E8%258A%25B1%25E9%25A3%259F%25E5%25A0%2582.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
     },
     {
-        "id": 13,
+        "id": 9,
         "name": "貓GO燒 (出門左轉)",
         "classes": "丼飯之類的",
+        "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
-        "image": 0,
+        "drink": "否",
+        "soup": "否",
+        "selfclean": "否",
+        "delivery": "null",
+        "image": "https://1.bp.blogspot.com/-a7qOfs0CE34/WynsP0Jis4I/AAAAAAAAj_M/apAKcIAio0YLlo6eB3M0f0zniMHZjNxpACK4BGAYYCw/s1600/%25E8%25B2%2593Go%25E7%2587%2592.png",
         "menu": 0,
         "href": 0,
         "seat": "有"
     },
     {
-        "id": 14,
+        "id": 10,
         "name": "十號咖哩家 (出門左轉)",
         "classes": "賣咖哩",
+        "phone": "未提供/待搜集",
         "times": "午餐、晚餐",
-        "image": 0,
+        "image": "https://2.bp.blogspot.com/-XU9zNloTFZI/WynsQzWXbnI/AAAAAAAAj_U/fJ8IOW4xnMY18M2ze-UuYZXF3lrzKZC-gCK4BGAYYCw/s1600/%25E5%258D%2581%25E8%2599%259F%25E5%2592%2596%25E5%2593%25A9%25E5%25AE%25B6.png",
         "menu": 0,
         "href": 0,
         "seat": "有",

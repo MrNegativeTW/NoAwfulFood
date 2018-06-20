@@ -80,11 +80,11 @@
 				<h4 class="wowTop global-margin-top-16">大武街左右邊</h4>
 				<p>南台街左轉後道路兩旁</p>
 				<h4 class="wowTop global-margin-top-16">往醫院方向</h4>
-				<p>大武街看到眼鏡鏡行後右前方方向</p>
+				<p>大武街看到眼鏡行後往右前方走</p>
+				<h4 class="wowTop global-margin-top-16">往S棟方向</h4>
+				<p>三宿右轉那條路</p>
 				<h4 class="wowTop global-margin-top-16">其他</h4>
-				<p>店家數量少或路名不好辨認地區<br>
-				   例如：櫻花、型男老爹 等
-				</p>
+				<p>店家數量少或路名不好辨認地區</p>
 			</div>
 			<div class="col-sm wow slideInRight" data-wow-offset="250">
 			<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d743.6215703721521!2d120.2241031667013!3d23.02199988433783!3m2!1i1024!2i768!4f13.1!5e0!3m2!1szh-TW!2stw!4v1524386150982" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>

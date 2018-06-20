@@ -39,7 +39,7 @@ foreach($ShopData->$value as $data){
 		/*名稱大標*/
 	echo "<div class='card-body'>" ;
 	echo "<h4 class='card-title'>" . $data->name . "</h4>";
-	echo "<p class='card-text'>" . $data->class . "</p>";
+	echo "<p class='card-text'>" . $data->classes . "</p>";
 		/*菜單按鈕.disabled button if menu's value='0' */
 	if ($data->menu == "0"){
 		echo "<a target='_blank' href='" . $data->menu . "' class='btn btn-info disabled' style='margin-right:4px ;'>" . "<i class='fa fa-book' aria-hidden=true'></i>" . " 菜單" . "</a>";
